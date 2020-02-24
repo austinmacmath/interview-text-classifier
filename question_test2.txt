@@ -1,0 +1,605 @@
+Choice Question
+__label__0 Briefly tell me about a project that you worked on recently. What are the obstacles you faced and how did you overcome that?
+__label__0 Get the names of all the salespeople who have made a sale to someone within industry B
+__label__0 Do you use Python and/or SQL? Describe your experience with them.
+__label__0 Why do you want to work here?
+__label__0 General PM questions
+__label__0 Python Sql
+__label__0 Can you draw something?
+__label__0 Datawarehouse concepts
+__label__0 Describe how your experience is relevant to the job you are applying for?
+__label__0 SAS Programming Experience
+__label__0 Describe a time when you did not agree with a decision being made by management and how you responded.
+__label__0 Easy spark ETL questions.
+__label__0 How do you handle an irate customer?
+__label__0 " The online coding challenge required me to finish 3 problems within an hour  including Python  SQL and data analysis questions. Then hiring manager asked some questions about my background and the project I did before."
+__label__0 " commands in SQL; group by  distinct  sort  etc."
+__label__0 standard Leet code medium questions like decode string.
+__label__0 resume in detail
+__label__0 Explain a ML model of your choice in layman terms.
+__label__0 SQL pivot question
+__label__0 " For technical interview's coding  implement common algorithms in ML such as K-means"
+__label__0 Share high-level summary of PhD research.
+__label__0 Let's say you work at Google and multiple peers send you urgent emails asking for you to do something. How do you manage the situation?
+__label__0 General T-SQL questions.
+__label__0 Find second to last value in an array.
+__label__0 What do you use to connect the database to the Splunk instance for data analysis?
+__label__0 How do you restrict users and application partners to use specific data?
+__label__0 write a query to hide all the null values in the database?
+__label__0 Describe your experience with Python.
+__label__0 [EQ] Tell me a time where you succeeded/had an accomplishment
+__label__0 Tell me about a project you're not proud of.
+__label__0 What are your experiences with SQL
+__label__1 " You have 8 marbles and a balance scale. One marble weighs more than the others  but you don’t know which one. How can you identify the heavier marble using only two weighs of the balance scale?"
+__label__0 What do you like to do for fun?
+__label__0 Tell me about yourself
+__label__0 R Shiny or Tableau?
+__label__0 " Basic Python  DW  Spark  SQL questions"
+__label__0 Coding questions in Python.
+__label__0 What is your vision to be a Data Analyst?
+__label__0 Talk about a machine learning project you worked on.
+__label__0 " What is your past experience using MySQL  Tableau  etc. Can't recall many details."
+__label__0 Difference between stored procedures and triggers.
+__label__0 Explain Support Vector Machine
+__label__0 Tell me about yourself and describe the project you did
+__label__1 " MCQ on Python List slicing  coding question on string manipulation(very easy). ML theory questions: How to avoid overfitting  PCA  Bias-Variance tradeoff."
+__label__0 I have a Sapphire Reserve credit card in my wallet. What company benefits most if I have to pay interest because I’m unable to pay my bill for this card at the end of the month and why?
+__label__0 Tell me about your self. What are you good at? How do you work in a team environment?
+__label__0 find the next sequence of a series of images
+__label__1 Day over day profit per day
+__label__0 " Describe a project you worked on in the past  what was your role  what were some challenges you faced  etc."
+__label__0 Based on 6 months of betting data suggest a marketing strategy that would encourage those who first bet in January to vote again in May. Make a presentation for the board of directors about this marketing strategy.
+__label__0 " Questions related to resume  why fidelity  what did I expect to get out of the internship program. "
+__label__0 " Machine learning design  algorithm and data structure"
+__label__0 What is your career goal?
+__label__0 How to select a classification algorithm?
+__label__0 Questions related to experimental designs.
+__label__0 Case study about finance/data stuff. How would you help a bank open branches etc.. there were three different cases for each call I had.
+__label__0 " Was asked about sub-setting a data frame  joining data tables (and some questions around left join and right join)  and overall steps involved in building ML model. Interviewer also tested in feature engineering and data imputation "
+__label__0 " The standard interview questions included the introductory ""Tell us about yourself?""  and ""Talk about a mistake you made in a previous job  and how did you handle it?"". They also asked me to explain how to transform raw messy data in to an end result at a high level. I did not have to perform a whiteboard session  but the duration of the interview was technical in nature."
+__label__0 Why do you want to work on this role?
+__label__0 Parse log file
+__label__0 What does it mean that functions are first class in Python.
+__label__0 Only one easy/medium leetcode question during the coding module.
+__label__0 How and when to use hierarchical queries.
+__label__0 How is your SQL skills? Are you willing to work in a format of standardization of reports?
+__label__1 " SQL queries: Select all the duplicate rows from the warehouse table  Select all the non-duplicate rows from table where no order was delivered yesterday. W Theoretical: Explain OLAP cubes and a use case explaining business analytics application. What is data normalization and non-normalization? What happens to the data of the table with the foreign key when the table with primary have there data updated? What do you understand by cascading referential integrity? Regression: What all regression models have you worked with? Explain the difference between the linear and logistic regression and use examples? What is the independent variable and what if I have three independent variables in my model and no dependent variable? Write an equation for multivariance or multiple regression model? "
+__label__0 " Multiple choices of basic statistics and math knowledge (probability  linear algebra ...) and a coding challenge. "
+__label__0 They asked me about my knowledge of several system specific knowledge and how I handle multiple questions from someone I am speaking with.
+__label__0 A series of technical questions about Python programming.
+__label__0 What is your experience with front end data visualization and reporting?
+__label__0 How would you apply advanced analytics and modeling to golf strategy?
+__label__0 What’s your strength and weakness
+__label__0 You are given a word problem. There is nothing you can really do to prepare other than having previous experience answering these types of questions. You have to sort of just think on the spot.
+__label__0 What do you bring to the table as a Data analyst?
+__label__0 Go through the resume
+__label__0 " Sql questions  Data cleaning"
+__label__1 Why shouldn’t you use time series data in regression analysis
+__label__0 " Normal data analysis questions  i was told to analyse one set of given data."
+__label__0 " there were some questions about my project and research only. No question regarding ML. no coding interview  but some challenging questions regarding my research."
+__label__0 1. String partition. 2. Permutations of a string. 3. Machine learning system design at big scale.
+__label__0 Tell me what was your biggest failure and what did you learn from it?
+__label__0 " Given three tables  write SQL to extract specific data from one table."
+__label__0 Great question: what will we know about you in three months that don't know today?
+__label__0 How do you handle pressure at work?
+__label__0 " What is a project that you have worked on  and what are the methods  tools  and processes used to complete it?"
+__label__0 What was argument you had with a co worker and how did you handle it?
+__label__0 Multiple SQL queries and a scenario-based ETL design question
+__label__0 What is autocorrelation?
+__label__0 Describe the research project
+__label__0 You will be given a hands-on exam with a set of pre-defined questions in a spreadsheet to either create a data model or do data analysis.
+__label__1 Sales VP of a B2B company observes that the number of deals a sales person closes is closely correlated to how many other internal team members across the organization the sale person has interaction with but at the same time if the sales person has proportionately more interaction within the sales division then that correlates to poor performance. (if sales person is talking to more engineers and technical support team members then has better sales results followed by sales person who is not talking much to anyone inside the organization followed by sales person who is talking primarily within the sales organization). Assume you have internal email data as proxy for with whom a sales person is talking with - and you want to group the sales team members into these 3 buckets so that sales VP can have separate training session for each group that is personalized to their behavior change. Suggest how will you help the sales VP do this grouping.
+__label__0 Models and reasoning based questions
+__label__0 What is the toughest feedback you have ever received?
+__label__0 tell me about yourself
+__label__0 Regular question about experience etc
+__label__0 Performance level questions
+__label__0 Data Challenge round. 2 case interviews. every round had a behavioral question that was asked.
+__label__0 " They asked basic questions on statistics  regression and machine learning."
+__label__0 " Complete this problem sheet using the language you are familiar  SQL questions."
+__label__0 Tell me about your projects.
+__label__0 Why do you want to work at McAfee?
+__label__0 Typical tell me about a time you did this or had to do that
+__label__0 What would you do if you are given a dataset and do not know where to start or what to do?
+__label__0 " SQL live codding was such as select statements given four tables relationship already created. There were 6 questions it starts with the easily one such as select all statement and then moves to slightly difficult ones ( but not too hard) e.g. to identify people worked together given role  list of people and type of job in separate tables."
+__label__0 Who was your favorite professor and why ?
+__label__0 Implement Dropout
+__label__0 What does SQL standard for
+__label__0 Can kMeans be applied to categorical variables?
+__label__0 " 8 multiple choice questions and 1 coding question. The former covered neural networks (how to avoid overfitting training data)  decision trees (what are they  and choose the best one given 4 choices)  logistic regression (analyze a classification problem where precision and recall are good for one label but not for the other)  k-means (""all of the following are true except..."")  SVM optimization (how will increasing the weight of the slack variable term in the loss function affect things)  SVM loss function (what it looks like)  variance in probability (basically summing random variables with constants out front  and finding the overall variance). Coding question involved reading files and writing new ones."
+__label__0 What would you have done differently on a project which didn't go perfectly?
+__label__0 Was I good with Microsoft applications?
+__label__0 Describe your experience with optimization algorithms and process.
+__label__0 Typical interview questions
+__label__0 Lot of budgeting questions
+__label__0 Write a SQL query.
+__label__0 Write a function that computes some values related to geometry.
+__label__0 Solve a greedy algorithm coding question.
+__label__0 past projects
+__label__1 " If you had to design a feature for YouTube  what would it be and how would you test it?"
+__label__0 " When you create a dashboard for a game  what kind of metrics can you come up with?"
+__label__0 Not a lot of technical questions
+__label__0 " Basics of Object oriented programming  sql"
+__label__0 Presented required skills from job posting and asked how I met them.
+__label__0 Question on Diversity in the workplace - what it means and why it's important.
+__label__0 What tools do you use?
+__label__0 What do you know about Fidelity?
+__label__0 Join two tables and compute a histogram of a certain variable.
+__label__0 Why choose Ordermark?
+__label__0 Right join query
+__label__0 " What is your experience level with SAS  Python and R?"
+__label__0 What do you know about semiconductors?
+__label__0 Question on mixed marketing spending about a billboard. Basically how could you figure out that spending on a billboard was working with multiple other variables at play.
+__label__0 Random questions on machine learning.
+__label__0 Q4: can you use Spark/rate your level of familiarity of Spark and Python
+__label__0 Q2: tell me about a project you are most proud of
+__label__0 Are you fine with relocating to Long Beach?
+__label__0 Where do you see yourself in ten years?
+__label__0 Why don't you ask me your questions?
+__label__0 " General python algorithm coding questions  general machine learning question regarding sampling  fitting  case study  etc "
+__label__0 A very basic data structure whiteboard coding problem
+__label__0 " Asked about my background  work experience and projects"
+__label__0 " What are your failures  and how have you learned from them?"
+__label__1 " 1) Questions on the data set they gave on the spot. Need to understand the fraud data set  join a few tables  and see what would be the selection criteria for the fraud. 2) Apply a simple time series model to the home test. 3) A bunch of behavioral questions - you most challenging project  etc."
+__label__1 " Imagine you run a pizza franchise  and you run into a problem with a lot of no-shows after the place their order. What features would you include in a model to try to predict a no-show?"
+__label__0 What made you interested in working at General Mills?
+__label__0 Tell me about the economy
+__label__0 1) Hive related questions 2) logical questions 3) spark related questions (basic)
+__label__0 Two team members sat in with me and gave me a brief overview of a couple of day-to-day activities they are involved with. Ask for my thoughts and potential improvements.
+__label__1 Take Home SQL challenge. They send you a link to something like hacker rank. It was connected to data so you do get to examine the output of queries. They ask about: - Finding problems with the data - Finding the most used browser/platform type - Some attribution stuff around what type of notification is more effective for what type of platform
+__label__0 Describe your role within the team and collaboration skills?
+__label__0 Why do you think you would be good at this job?
+__label__0 What are your strong skills.
+__label__0 What does the company do? Where do you see yourself in 2 years?
+__label__0 Q— how can we increase our understanding of user engagement
+__label__0 What responsibilities did you have in your most recent job?
+__label__0 About me.
+__label__0 Tell us about your resume. Can you walk us through?
+__label__0 Do you have people management experience?
+__label__0 They asked about background and experience. Nothing anybody asked was out of the ordinary.
+__label__0 How did you deal with conflict?
+__label__0 What time are you available for a phone call?
+__label__0 Why do I want to join Nuro?
+__label__0 What makes you a good fit for this position?
+__label__0 How do you know about what data scientists really are.
+__label__0 Are you a US citizen
+__label__0 Detail about your resume and question about the models you used for your case study.
+__label__0 " They asked about assumptions very specific to my case  be very well versed in the specifics of the case you bring to present in your interview. Other than that it was very typical data analytics and machine learning methods question  nothing that would be unfamiliar if you've done data science in the past."
+__label__0 Tell me about yourself? Have you ever had any conflict with your manager or stakeholders of the project? How many projects do you work on at a time? What is your technical background.
+__label__0 " My friends said I could file a lawsuit against them yet I don't have time for legal engagement. If a U.S. citizen or permanent resident is qualified for the job then he or she should be hired  whether they want to apply for green card for their existing employee or not. That's what Equal Opportunity Employer means. I guess Dell does not comply with the federal labor regulation. Then one of my former coworker who is a U.S. citizen told me that he applied for a Process Engineer position at Dell and the manager told him that  within a week they received 2 000 applications and most of them are from India. He then told me because most engineering jobs at Dell are occupied by Indian people who refer their Indian friends for engineering jobs at Dell every day. He also said  if you are not Indian  it is most likely you will not get an engineering job interview  not to mention a job offer. Apparently he is right because I am not Indian and my job interview with Dell was not real. I was used for them to test the market and benefit their green card process. There is no diversity at Dell engineering department. 99% of their engineers are Indian even though they website advocates diversity in their corporate culture. It was just a joke. Also if you get rejected by Dell for one position then you will get rejected for any other position you apply afterwards  even though their rejection email says they encourage you to check out Dell career website frequently as new positions come up blah blah.... Trust me  I tried that. "
+__label__1 " Variation of the number of islands LC question. You have a House  Well & Tree arranged in a large grid with empty spaces in between to show where you can go. How will you go from house to nearest well without hitting a tree? Assume you can only go up.down/left/right and not diagonally and cannot hit a tree else you backtrack. "
+__label__0 They asked how did I prioritize multiple requests
+__label__0 " explain how TFIDF  word embedding work  and their difference"
+__label__0 Do you have experience with financial processes?
+__label__0 3 Hadoop Questions. One SQL question. One python question.
+__label__0 " ""Since you are here at the interview process  can you guarantee that you will handle the role"""
+__label__0 " Given a printed out code find bugs  fix them and rename functions to convey meaning. "
+__label__0 Why do you want to be a data scientist.
+__label__0 Which excel formula do you most frequently use and why
+__label__0 " What statistical programs do you use  and how much experience do you have in coding and programming?"
+__label__0 SQL queries where you have to iterate every line to the dumbest interviewer haha
+__label__0 What is one of your biggest weaknesses? (and vice versa)
+__label__0 How would your coworkers describe you?
+__label__0 Basic Interview questions about past experiences.
+__label__0 Roles and responsibilities in current project
+__label__0 Normalization and De-Normalization - effects and advantages
+__label__0 SQL window functions
+__label__0 " What is better  to have work done on time  or work done perfectly?"
+__label__0 Maily asked about my goals and where I want to see myself
+__label__0 -Resume related questions - Process of building a predictive model
+__label__0 Write a SQL query to pull data. What is the different between a left join and an inner join xD. Basically if you are a data scientist youll get a DBA interview.
+__label__0 1. assessment report: https://github.com/fyxc/Mobile-Game-Assessment-Report
+__label__0 " They as situation questions such as  when was a time you had to deal with a difficult work situation? "
+__label__0 what is the most difficult project you've worked on and how did you tackle it?
+__label__0 What tools and technologies do you have experience with and how have you used them?
+__label__0 What is a foreign key in a SQL table?
+__label__0 How do you which variables to disregard in regression?
+__label__1 Write a SQL query to select people with the highest orders sorted with highest first (customer id and products purchased in different tables)
+__label__0 system design questions. coding questions. behavioral questions.
+__label__0 questions around work history and project
+__label__0 Tell me about a time when you had to work with difficult people.
+__label__0 Why should General Mills hire you?
+__label__0 What is difference in syntax for MySql and Oracle Sql
+__label__0 What would do if you do not have a good result? What do you think the reason why the result is not good?
+__label__0 Do you know PySpark?
+__label__0 Whats your favorite machine learning algo? why?
+__label__0 Tell me about your former role as a data scientist. Do you have any question about us.
+__label__0 phone screen was 1 probability question and 1 coding question. in-person was from a varying number of probability and statistics questions along with coding in your language of choice.
+__label__0 What is something you've seen in the news recently that interested you?
+__label__0 Unsupervised vs supervised learning
+__label__1 How would you correlate each device a person visits the website with back to that person?
+__label__0 Previous experience and technical questions
+__label__0 data task
+__label__0 Case study about building a dashboard for a GM in charge of transit in a city.
+__label__0 How have you used Python to solve problems?
+__label__0 Briefly describe how you would write a script to count the number of unique lines in a 100MB file. How long would it take you to develop this script? How long would this script take to run?
+__label__0 How is software engineering different from software programming?
+__label__0 They ask me query of second maximum salary in SQL I write down the right one but they said it's wrong and the interviewer wrote down the wrong the one
+__label__0 Asked about one SQL question
+__label__0 How to pick an element from a list?
+__label__0 Describe my work with APIs.
+__label__0 Array manipulation based questions
+__label__1 " The questions are completely on algorithms and probability  although I apply for Data Scientist position  there are no relevant statistics  machine learning questions."
+__label__0 Tell us about your experience
+__label__0 Tell me about your background?
+__label__0 Do you have some experience in SpringBoot?
+__label__0 " Probability Assessment: Conditional probability problems. Technical phone screen: Asked to describe basic concepts such as regularization  MLE vs Bayesian estimates  some unsupervised learning methods you were familiar with."
+__label__1 " 1 System Design (standard such as design Netflix or Typeahead suggestion)  1 question on Algorithms and data structures (easy-medium difficulty)  1 question on OOP and coding best practices."
+__label__0 How would you identify customers that were/have churned?
+__label__1 " Write SQL to describe things going on in this table (min/median/mean/max etc of diff columns)  how would you find the top or worst performing city  what is the % of shipments that were matched automatically etc"
+__label__0 1) Print a pattern based on elements of Fibonacci that satisfy a particular condition.
+__label__0 How can we improve our current process of interacting with healthcare consumers?
+__label__1 Python - Anagram detector functino
+__label__0 Do you know GLM and did you use it in your research? Some understanding in Recommender systems during onsite interview.
+__label__0 What is address space in the OS?
+__label__0 Difference between threads and processes?
+__label__0 What is flow control in networking?
+__label__0 What is the context switch?
+__label__0 " Trie  hashmap + arraylist  simple Scala questions"
+__label__0 " Typical SQL  Stats  Product questions detailed in other posts. "
+__label__0 what is the Byte size range of signed and unsigned data operators?
+__label__0 OSI model explains in detail
+__label__0 " Trie  hashmap + arraylist  simple Scala questions"
+__label__0 tell me your most unforgettable professional experience?
+__label__0 Have you had any experience with data visualization?
+__label__0 k means
+__label__0 Signed an NDA
+__label__0 Why did you choose to convert day of the week to a numerical value?
+__label__0 SQL basic questions
+__label__0 What course have you ever taken?
+__label__0 Why do you want to work at Salesforce?
+__label__0 Are you okay with travel?
+__label__0 Why u studied in Germany
+__label__0 Why are you leaving your current job?
+__label__0 what was my experience in and around the data center environment
+__label__0 Tell me about this project
+__label__0 Q. What is your favorite data science blog / What is your favorite book
+__label__0 " After the usual preliminaries  he asked something like  ""have you worked (or can you work) with big data"". I said yes and asked him what he meant by big data. He didn't know. I asked him if Ingram was really looking for a Data Analyst or did they need a ""ETL Guy""  to collect  clean and format the data. No idea. We had a short discussion during which I asked him if he had followed any of the links on my one-page resume; (I had links to my LinkedIn profile and my professional website.) He hadn't. The two sites contained  in total  at least a dozen examples of my work. I asked him if he knew what the hiring manager wanted and he did not. I told him that I'd have to think about it for a while and send him some examples to take to the hiring manager. After a few minutes of thought  I came to the conclusion that it would be another waste of my time. I sent him an email  thanking him for his time and stating that I was no longer interested in Ingram Micro."
+__label__0 Tell me about yourself or why specifically finance
+__label__0 The take home assignment is poorly worded. Intention of this is take home assignment is to get you to solve their problem and not hiring you. Individuals maintained pretty good communication up until you submit your solution for the take home assignment. Don't waste time interviewing with them.
+__label__0 How familiar are you with python?
+__label__0 What did you do in your Previous Company?
+__label__0 " If you had to rate your skill in SQL from 1 (no knowledge)  to 4 (expert) what would you rate yourself?"
+__label__0 Excel exercises that involved basic functions and navigation.
+__label__1 " SQL: Go throw joins  subquery  group by and window functions Python(any language of your choice): Syntax algorithms data structures big 0 notations System Design: Designed the system in multiple methods and explained the pro and cons of each method. "
+__label__0 " Questions about my background and why I wanted to work for Mozilla. The technical interview on Python/SQL went extremely bad for me cause I felt a bit pressured  although the interviewes were quite easy going. I couldn't perform basic tasks: I didn't have time to focus the problem and understand how to solve it. (The overall process was quite disorganised). The technical interview on statistics was quite easy  they displayed a graph and asked me questions about a fit of the data points and the performance of the fitting algorithm."
+__label__0 " Basic Java Questions  Data Structure  and conversations about general CS knowledge."
+__label__0 " SQL based  Linked list and trees."
+__label__0 What motivates you most to do a good job?
+__label__0 Tell me something about yourself (no specification)
+__label__1 " You are testing hundreds of hypotheses with a t-test  what considerations should be made?"
+__label__0 Q: What makes you as a candidate a good fit for this role?
+__label__0 What I desired in a cohesive team.
+__label__0 Hive joins(not SQL)
+__label__0 paraquet vs avro vs orc
+__label__0 Why were you interested in the position?
+__label__0 Related to Spark and Python Coding Questions.
+__label__0 What is your previous experience with Big Data?
+__label__1 Design a recommender system for Airbnb listings
+__label__0 nothing pertaining to deep data science is being asked something very basic that a non degree holder in data science would be expected to ask was asked.
+__label__0 SQL (telephonic and onsite; using coder pad) Scenario-based questions
+__label__0 " During the data challenge session  they asked clarifying questions  requested justification and inquired about motivations for the analytic decisions made. There were also standard behavioral questions and inquiries on my views on ethics in data science. Also be prepared to show how you might communicate technical nuances to non-technical audiences."
+__label__0 " What happens when a stock splits  differences between active and passive investing  etc."
+__label__0 Standard data warehousing interview questions
+__label__0 Tell me about what you're looking for in your next role?
+__label__0 Describe your projects? What techniques have you used and can you explain the entire process from start to end.
+__label__1 Machine learning questions about customer acquisition for credit cards.
+__label__0 Talk to me about your educational/professional experience with SQL databases/querying.
+__label__0 leetcode SQL should do
+__label__1 Use python3 to find an anagram pair in a sentence
+__label__0 what makes stand out from other applicants
+__label__0 Questions centered around the content of the data challenge
+__label__0 Tell me about the projects you have worked on. Why did you apply for this position
+__label__0 Decision Tree? why aetna ?
+__label__0 How did you make the conclusion that this data was valid for your intended analysis>?
+__label__0 Explain a project from your resume.
+__label__0 Background/Experience Like?
+__label__0 where your data requests come from?
+__label__0 why are you looking for a new opportunity?
+__label__0 Tell about a time you had to work with a confrontational employee.
+__label__0 Which algorithms are used for clustering?
+__label__0 Business Cases
+__label__0 " Statistics questions based on scenarios  coin flips  and a round table"
+__label__0 Discuss your previous projects.
+__label__0 Coding experience with Python
+__label__0 1)Why did you choose to apply for this position?
+__label__0 How do you compare two data sets?
+__label__0 what's the best 3 advantages you can offer to our company.
+__label__0 " I won't divulge the custom questions they had because of an NDA. But I will divulge the interview questions that are carbon copy menial tasks. Of the first three phone/live-coding interviews  I was asked to do a merge sort. I guess I understand that they want to make sure I can code. But there's got to be a better problem. The many in-person interviews were (1) 1.5 hour coding-by-myself on a laptop  (2) describe a problem you worked on in detail  (3) ""NLP"" interview that didn't focus on NLP  instead they focused on AB testing (which is fine)  (4) Lunch interview  (5) culture fit interview  (6) follow up/close/discussion interview. To be honest  I don't remember much near the end. I think I went directly home after and slept for 12 hours."
+__label__0 basically go through a data analysis using python using a sample dataset
+__label__0 What are you passionate about? Where do your interests lie?
+__label__0 Why are you uniquely qualified for this role?
+__label__0 How is a decision tree pruned? (not hard)
+__label__0 How do you respond to an unhappy client?
+__label__0 Explain how Machine Learning works in detail
+__label__0 all data science related
+__label__0 " How would you solve a data analyst problem? What are the steps on data collection  wrangling and modeling? "
+__label__0 What are the similarities and differences between a camera and a cell phone?
+__label__0 " No in-depth questions  just questions about my last two projects."
+__label__0 Design an AutoML system.
+__label__0 The technical part is a little bit challenging.
+__label__1 " Technical phone screen: * Explain Lasso vs. Ridge and when you would use one over the other * Explain Bias vs. Variance * Explain: SQL: inner  outer  left  right * Explain SQL: what is group by and give an example * How to deal with overfitting * Give an example where you didn't have enough data Onsite: Bunch of behavioral questions and a few case study. For example  if there are 3 marketing techniques and 15 companies how would you determine which marketing technique is ‘best’? Assume you have no other information"
+__label__0 " Tree  Cluster"
+__label__0 How would you go about reducing feature space
+__label__0 Questions about my previous background
+__label__0 What is Differential gene expression?
+__label__0 Why are you leaving your current role?
+__label__0 Tell us about a time you were asked to do something you think is unethical by management.
+__label__0 I was asked how I would fix an actual performance problem they're experiencing with their software.
+__label__0 " Nothing sophisticated. Not even sure  if they prepped questions for the interview or just ask a random question for the sake of asking."
+__label__0 The technical phone screen was more oriented toward software engineering and pretty challenging but that made it really interesting.
+__label__0 sql questions
+__label__0 They asked me if I could tell them how to find validity of a model
+__label__0 What did you like about chime
+__label__0 What do you know about the role?
+__label__0 Tell something about yourself and what's your most frustrated thing
+__label__0 Tell me about a time you helped someone out.
+__label__1 Write sql code to produce a desired output. Then write programming to do the same thing (Python or pseudo code).
+__label__1 How would you create a pricing model for winning shipping auctions based on provided data points?
+__label__0 Sorting data in SQL
+__label__0 Share your experience working with large dataset.
+__label__0 tell us about you
+__label__1 Implementing an SQL wildcard. Joining two tables with the other table having NULL ID's.
+__label__0 Tell me about yourself?
+__label__1 " Python Data Structure questions. How do you find the right person to recommend the right products using machine learning? If I gave you whole Jetblue data-sets on Friday  how do you come to me on Monday ?"
+__label__0 Why do you want to work at Bloomberg?
+__label__0 How you define success?
+__label__1 " Given a table of users  dates  statuses  etc. - calculate the ratio X grouped by Y on day Z. Call out edge cases - don't assume anything about the data without clarifying."
+__label__0 Where do you see yourself in 5 years?
+__label__0 Tell me about yourself
+__label__0 For Stage 1: I was asked to write a code for a Fibonacci sequence.
+__label__0 " I know this asks questions you were asked  but I want to say here what they DON'T ask. After 3 interviews with them (all of which ended in hard or ""soft"" offers)  they never asked silly arbitrary questions or anything personally probing. No questions about ""what animal you'd be"" or ""who would you have dinner with -- dead or alive"". "
+__label__1 They gave a hypothetical dataset from a relational database and asked how I'd analyze data from two different tables. The challenge was there was no common key between them.
+__label__0 " I did the phone call interview  just asked my background and what I want to do"
+__label__0 " VBA  pivot cache  vlookup  screen updating"
+__label__0 Explain how gradient descent works with logistic regression as an example case
+__label__0 " More about ML algorithms like KNN  Random forest  DT  Neural net  Reinforcement Learning  cloud related questions like AWS s3  Databricks etc."
+__label__0 " Onsite Interview: Cannot give specifics as I had signed NDA  but it is a real-world case study. You have to create Dimensional model and then write queries on whiteboard based on interviewer's requirements. Knowing ""Key-Operating Metrics"" is highly recommended."
+__label__0 " SQL joins  Over fitting and Under fitting in R  IQR  ARIMA"
+__label__0 How to avoid overfitting in neural network?
+__label__1 Draw a curve you think would represent facebook user retention as a function of the number of photos uploaded
+__label__0 " SQL joins  Over fitting and Under fitting in R  IQR  ARIMA"
+__label__0 Explain a few methods to handle an imbalanced dataset.
+__label__0 List error metrics to evaluate a binary classifier.
+__label__0 Do you have experience with Spark or big data tools for machine learning?
+__label__0 Please explain your most successful (first-hand) use cases of machine learning models.
+__label__0 Describe some reprocessing techniques that could be used for analyzing raw vibration data from variable speed rotating machinery.
+__label__0 how do you define trust?
+__label__0 3 coding problems. Technical questions were relevant to data science.
+__label__0 Please tell me about your experience in handling big sets of data and what kind of software you use. Specify.
+__label__1 find the greatest sum of a sub array
+__label__1 invert digits using int data structures
+__label__0 " Machine learning concepts: Unsupervised v/s supervised  overfitting  underfitting  performance metrics  choice of algorithm for any application "
+__label__0 Design a database schema to support the company's task processing state machine.
+__label__0 " One particular question that was striking was when I was asked to describe a time in my work experience when i was faced with a difficult situation  how I handled it  and what was the eventual outcome."
+__label__0 Exercise connected to Criteo's business model
+__label__0 " In terms of data management  have you ever worked with Electronic Medical Records? "
+__label__1 for second round - Try and solve basic profit and loss questions(their main focus here is are you good with quants and are able to understand business profit and could you make a profit)
+__label__0 Data Modeling questions. Prepare many to many data modeling well.
+__label__0 Q: What is your experience in statistical analysis?
+__label__1 " Given two list of descriptions of some products  how do you design an algorithm to find the same product from their descriptions."
+__label__0 Describe your specific role in a project
+__label__0 Why company & position?
+__label__0 What is your experience with working in a team and what is your experience with forecasting
+__label__0 1. Why do you want to work for this company?
+__label__0 Product sense question and coding questions.
+__label__0 Why Healthfirst? What do you think of healthcare?
+__label__1 How would you explain a confidence interval to a business-person?
+__label__0 " Q. questions about the basis of neural networks  decision trees  SVM  k-mean."
+__label__0 " They asked me about my level of Excel experience and my comfort level with VBA  macros and pivot tables. "
+__label__0 Where do you see yourself in 5 years?
+__label__0 How well can you adapt to change.
+__label__0 Tell me about yourself and your background
+__label__0 Where do you see yourself in a couple of years?
+__label__0 " Superday: If oil prices increase  what happens to inflation in the economy?"
+__label__0 Possibilities questions
+__label__0 the interviewer asked about the important project i did and asked few tableau questions and few SQL questions.
+__label__0 What were your past experiences?
+__label__0 " If you disagree with your co-worker  how do you deal with such situations?"
+__label__0 Why do you want to work for Directive
+__label__0 P-value
+__label__0 What kind of project have you done?
+__label__0 What is combiner in Map Reduce?
+__label__1 " You have 24 hours  how would you measure what % of FB stories are fake news? How would you refine your process if you have more time?"
+__label__0 " Practical knowledge of marketing  technical test of stats  excel  and SQL."
+__label__0 Why you are leaving your old company
+__label__0 " Difference in SQL queries  data normalization  experience with dashboard reporting tools  change management  past projects completed  solutions to analytical scenarios."
+__label__0 What makes you interested in data analytics?
+__label__0 What will you do if you are required to finish a project that you know you cannot finish?
+__label__0 The hacker rank challenge had questions about basic python/pandas skills.
+__label__0 What would be the confounders in determining the relationship between these two variables?
+__label__1 What affects Uber ride requests? How would you predict ride requests?
+__label__0 What is MLE?
+__label__1 How many people in New York wear red colored shirt on Monday
+__label__0 Do you have experience managing projects involving developers located on another continent?
+__label__1 Questions about efficiency curves in the supply demand distribution of Instacart's logistics.
+__label__0 basic SQL question
+__label__0 behavioral questions and past projects
+__label__0 What are some of Bloomberg's products?
+__label__0 Is music big in your house?
+__label__0 Tell us about yourself.
+__label__0 " Machine learning questions  related to dealing with imbalanced data  and also gradient descent. (Again  don't remember the details.)"
+__label__0 Tell me about past projects you've worked on.
+__label__0 " Coding  Technical Challenge "
+__label__0 What can you do to make contributions to the team?
+__label__0 ML questions. Build a recommender system (based on a challenge)
+__label__0 Bias-Variance trade off handling.
+__label__0 general data mining question
+__label__0 What is your notice period?
+__label__1 " sql queries. easy and complex one too about rownum  joins  etc difference between rank and dense rank Union n union all"
+__label__0 Tell me about what makes me stand out from other potential applicants.
+__label__1 " How do you count number of elements in a spark Sequence  how can you avoid data being called twice due to lazy evaluation Aggregate vs reduce by when to use what "
+__label__0 Phone Screen was easy.
+__label__0 Where do i see myself in 4+ years.
+__label__0 Plane delay prediction
+__label__0 Technical case on cross device tracking. This question has been mentioned by atleast 5 other reviewers.
+__label__0 How would you solve (DESIGN QUESTION)?
+__label__0 Does this position sound like something you’re interested in?
+__label__0 - project experience -strength and weakness -data analysis experience and programming skills
+__label__0 why do you want this job
+__label__1 " The training data is pulled from raw logs. It has three columns that record user activity over time: user_id: A hash that uniquely identifies the user. activity_date: The date of the activity activity_type: The type of activity 6sense would like to predict which users will purchase given the user's activities. Using the training data  build a model that predicts which user_id's will make a purchase in the future. Use the model to score the test data from most likely to least likely to purchase. Please submit the following: (1) Descibe which activity types you believe are most useful in predicting which user will purchase in the future. (2) Provide a file containing the 1000 user_id's most likely to convert. (3) [optional] Any work used to generate the list and/or notes you'd like to include. The dataset is available for download online on kaggle."
+__label__0 Why do you want to join Honeywell?
+__label__0 Projects and experiences
+__label__1 " If you have a table with names and ages that contains some duplicates  how would you return all duplicates? Answer in SQL"
+__label__0 What is your past expereince in the line of work you applied for?
+__label__0 questions were focused on statistics and machine learning fundamentals
+__label__0 To name software that I had an intimate knowledge of
+__label__1 " They like asking brain teasers  which caught me off guard so be prepped on those (they do this to see how you tend to think). I got asked two  one I remember was: you have two buckets  one has a 3 liter capacity and one has 5 - how would you measure out 4 liters of water?"
+__label__0 Talk about past experience
+__label__0 " Basically about your qualifications and things on resume  behavioral questions like how do you multi-task"
+__label__0 How many stoplights are in Salt Lake City?
+__label__0 What is your greatest failure in life?
+__label__0 " 1. Specific technical questions about math  trigonometry  signal analysis. 2. HR questions (about my interests  why Gecko Robotics  why the position  my background)."
+__label__0 talk about a project that you are most proud of.
+__label__0 What do you expect from management as a member of the team?
+__label__0 " Data Engineering Tasks  Questions about Pipe-lining and scalability."
+__label__0 " Basic to Advanced SQL Questions until you are not able to answer to judge your level of Knowledge. This is also done for other skills like Linux  Finance etc."
+__label__0 Which switch belongs to which bulb?
+__label__0 Questions were mostly use cases.
+__label__1 add the smallest and the largest number from the list
+__label__0 " Easy-style leetcode questions  mostly about binary search trees"
+__label__0 How do you debug spark jobs?
+__label__0 " Many practical questions you might encounter if you actually work there  which I like a lot"
+__label__1 " was given 2 CSV files.. one with dict and other with list  had to convert the list into dict and merge the file into one csv."
+__label__1 " Out of millions of data  what approach do you take to make sure your model performs well. Q. Are you being opportunistic? What kind of question coming out of a hiring manager? And asking the question ""Being opportunistic""? I did not follow up at all."
+__label__0 Why choice hotels
+__label__0 NDA
+__label__0 Are you familiar with Data visualization tools?
+__label__1 " The onsite also had a technical interview  which also involved merging and joining tables  and finding sub-sets of the data that was ""complete""."
+__label__0 " The fizzbuzz interview was pretty basic  merge two data sets and find correlations in the data set. The questions were asked as a three page take home exam (two hours allotted for the exam)."
+__label__0 Given this data calculate this KPI How would you design the data model for this scenario
+__label__0 How to login into remote servers without password?
+__label__0 Just regular questions about the information on resume.
+__label__0 They asked me to use whiteboard to explain how I gather requirements.
+__label__0 How can you pivot this table without using the pivot function in SQL
+__label__0 What do you think defines our company?
+__label__0 They really wanted me to ask them questions about their company. I was only asked for a brief intro about my background.
+__label__0 What's your expectation from this job?
+__label__0 Importance of Databases to the financial services industry?
+__label__0 " Behavioral questions.. reason for job change  etc"
+__label__0 What is supervise and what is unsupervise
+__label__0 Tell me something you think you are not good at and would like to work on during this internship.
+__label__0 Do you know conditional formatting in Tableau?
+__label__0 What fields of health policy are you interested in?
+__label__0 Questions about my projects and previous experience.
+__label__1 Estimate the number airplanes in the sky at one given time
+__label__0 So what have you been doing since we last talked? (i.e. I took as 'What else have you learned about Fiserv?')
+__label__0 What is the hardest thing you've ever done?
+__label__0 Why do you want to work for United?
+__label__0 Tell me about yourself
+__label__0 What is your work experience?
+__label__0 Where do you see yourself in ten years?
+__label__0 Link different devices of the same user plus machine learning basics.
+__label__0 What’s your background in databases and back-end engineering?
+__label__0 What is the difference between inner and left join?
+__label__0 Walk us through a favorite project you worked on recently.
+__label__1 " Given a sample set of tables  write a sql query to get a summary metric from those tables."
+__label__0 Why are you interested in this position.
+__label__0 Describe my vision for the team in the future.
+__label__0 " System Design   SQL  REST API design  AWS DevOps Questions"
+__label__0 " Not a 9-5 job you may be on call and working long hours  how would you handle that."
+__label__0 " How do you manage projects. Name a time you felt project was not going as planned  how did you handle it."
+__label__0 Why BookBub? Why this position?
+__label__0 You'll ALWAYS be asked whether you've done a project with data analysis and to talk about what you did.
+__label__0 What kind of projects have you worked on
+__label__0 Do you know what regular expressions (regex) is?
+__label__0 Generic Data science questions mostly on the projects that i did.
+__label__1 " Phone screening 1) write a function which takes two parameter shopping_list and store inventory. This function should return true if store has all the inventory which you want to buy. 2) Write a function which takes two parameter shopping_list and list of store object stores[ {distance:8 inventory:’a b c}..... etc{. Find the store which has all the inventory and nearest from your home. Onsite interview 1) First round simple question on hashmap 2) generic system deaign interview 3) database design and query 4) last round with manager on general discussion regarding your day to day work."
+__label__0 " Salary expectation  availability  VISA  etc."
+__label__0 Describe a machine learning project you have worked on.
+__label__0 " ""How did you like working for a Japanese company that couldn't speak English?"" "
+__label__0 Cultural fit.
+__label__0 Two at-home assignments to demonstrate analysis and reporting ability.
+__label__0 SQL & data structure
+__label__0 Why do you want to work here?
+__label__0 Asked me questions about the projects on my resume
+__label__0 Explain how to interpret this model
+__label__0 Talk about a data science problem you worked on.
+__label__0 Do you have any experience with SAP or data migration?
+__label__0 Theoretical and applied ML questions
+__label__1 How do you divide the data into 2 clusters without using unsupervised techniques
+__label__0 Tell me a time when you had a problem with the data
+__label__0 " Explain the process  how you take your model into production from development stage"
+__label__1 How would you find the number of cardholders with the 5 highest number of transactions in 2018?
+__label__1 " I have a pile of 50 USD coins. I pick one randomly  what is the probability that I picked a 1 cent coin?"
+__label__0 Walk me through one of your past projects What are your go to approaches at solving any analytical problems?
+__label__0 Gave me a description of a dataset then ask about what model would I use.
+__label__0 How much would you charge to clean all of the windows in Cleveland?
+__label__0 Case question.
+__label__0 Why Booz Allen ?
+__label__0 Tell me more about your academic projects
+__label__0 Describe what your company is doing with data
+__label__0 " Behavior questions  system design and some code problems."
+__label__0 How to add test to your code?
+__label__0 Why did you code things a certian way.
+__label__0 " Standard data science  machine learning and coding questions"
+__label__0 probability
+__label__0 logical reasoning
+__label__0 Difference between a Z test and a T test What is P-value Type -1 and 2 errors Product oriented questions SQL exercises coding questions
+__label__1 " Product based questions and how I use Machine learning to solve their business problems A/B testing questions MIP formulation question Decision Trees and Traditional ML algorithm questions High level metrics  Driver oriented metrics  Shipper side Metrics Experimentation questions"
+__label__0 What was your experience on machine learning?
+__label__0 What do you know about SQL?
+__label__0 How do you load data from SQL Server to python?
+__label__1 " Suppose you want to predict whether a customer would purchase something from the online store again  what will be your approach?"
+__label__0 " Past experiences and application with data wrangling  feature engineering  PCA  neural networks  modeling algos  NLP  naive bayes  etc."
+__label__0 " Python question  largely about pandas  numpy  and writing functions."
+__label__0 " 1. We are observing this trend  what are possible explanations for why? 2. Behavioral (talk about a time when...) 3. SQL. Did not have live coding  only in the initial problem and take home portion "
+__label__0 " SQL  R"
+__label__0 " What actionable insights (for product   merchants  engineering) can you draw from a data set?"
+__label__0 Design LRU cache
+__label__0 Technical communication on mostly my current experience on Big Data technologies.
+__label__0 " Basic understanding of Spark and the overall project architecture to see the use of Big Data tools. Differences between RDD  dataframe and datasets."
+__label__1 1st data scientist: The wind question (below) but I had to go very in depth about why I would choose Monday or Tuesday and had to actually write out the equations and explain why which one is better. I also had a question about shuffling cards and I had think of a really efficient way to do it. The second interview had a lot of questions about Python and R like about what the data structures are and their definitions. I think I also had some questions about linear regression as well.
+__label__1 " If you were trying to sell reusable silicone straws but the whole product listing is comprised about how plastic straws are bad for the environment  how would an text classifier detect that the item is silicon straws instead of plastic?"
+__label__0 how do you accept constructive suggestions from your mentor
+__label__0 why IHME
+__label__0 what is your future plan
+__label__0 " If you want to merge some data into a bigger dataset  what will you do before the merge? R you gonna merge directly or do something before the merge?"
+__label__0 What is your favorite algorithm?
+__label__0 What's your experience working with Python?
+__label__0 " As you would expect for a data scientist position  they ask a series of technical questions on predictive analytics and SQL."
+__label__0 Tell me about yourself.
+__label__1 -Business case study/challenge questions (eg explore and propose a new vertical to launch at Postmates) -What data would you use to inform a decision about a new restaurant location
+__label__1 " You have 100 doors  and you open each of them on your 1st time through  then your second time through you toggle every 2nd door (closing open doors  or opening closed doors)  then your third time through you toggle every 3rd door  which doors are opened after 100 times through?"
+__label__0 What are some of Bloomberg’s new features?
+__label__0 What technical skills do you have to be qualified for this job?
+__label__0 Describe a technical problem and how you solved it.
+__label__0 Why do you want to work at Booz Allen?
+__label__0 Give you a situation of data science problem! like for my situation it was a telematics data science problem
+__label__0 Do you have SQL experience?
+__label__0 If you won the lottery tomorrow what would you do with the money?
+__label__0 what is big data
+__label__1 Propensity Model and how beta estimates are calculated by MLE?
+__label__0 Bias-Variance tradeoff and ways to check overfitting of a model
+__label__0 " Vlookup  Pivot  Concatenate  and other functions"
+__label__0 What is your work ethic?
+__label__0 " Describe a time that you had to work with someone who wasn't data ""savvy"""
+__label__0 Why do you apply this position?
+__label__0 3 part are a bit different. Sometimes there are a short cut of codes and they want to you to tell what it returns.
+__label__0 " personal experience  AB testing  why do you want to work for Linkedin  some business acumen testing"
+__label__0 Ask questions about the dataset you have worked on and how to reduce overfitting. They prefer applicants that can build machine learning models from scratch. All questions were based on the submitted resume.
+__label__0 What's your highest level of education?
+__label__0 Asked to take an Excel test?
+__label__0 Tell about Your experience and the most interesting project
+__label__0 " All interviews (except for the HR screening) comprised 2 parts. A personal experience question  where you had to get into details about previous projects you had worked on (in data science). And then the 2nd part was always a case study (typically with an analytics twist)."
+__label__0 Describe your experience and why did you think that it will be useful for us (ArenaNet). What is your salary expectations? Have you ever played GoW?
+__label__0 Mostly behavioral with a specific focus on data issues I encountered at previous jobs and my approach to certain tasks
+__label__0 Tell me about yourself. About the company.why interested. That's all. I asked multiple question to them .
+__label__0 " Combination of filler fake HR generic questions  describe an ideal day  what do you think about working remotely  then lots of detailed questions to find out what you know about various technologies  processes and what you would recommend. This is the part you need to be careful. I'd recommend frankly not interviewing with this company and finding ways to test them to see if they are seriously hiring."
+__label__0 Case based interview questions
+__label__0 Five things you look for in a company
+__label__0 Instances of machine learning applied in your projects
+__label__0 What are 3 ways you measure success?
+__label__0 " Something about the lottery expected winnings  it was heavily quantitative  which I did not understand based on my prior research on websites such as this one. "
+__label__1 " discussion of semantic segmentation  describe Mask RCNNs/YOLO algorithms  cross entropy  graph/DFS type problems  design an optimizer for any cost function f"
+__label__0 Big emphasis on machine learning
+__label__0 Why doxo?
+__label__0 How do you get along with others
+__label__0 " Choice of model for the given dataset  why would you use R over Python or viceversa. Questions about probability theory."
+__label__1 " 1. Live coding: a. Create a list of 10 consecutive integers between 0 and 10 - Python b. based on the above list  print out odd numbers - Python c. Given a list of stores and products  derive a store-product summary table containing fraction of products for each store. (SQL) 2. Diff between supervised  unsupervised  reinforcement learning 3. What does p  d  q mean in Arima time series model? 4. If you have weekly sales and want to predict future sales  which time series models are you going to use? 5. how to deal with overfit 6. how to deal with outliers  any model to detect it 7. what is PCA 8. what is R squared  diff between r squared and adjusted r squared 9. what can you do to overcome multicollinearity 10. what is regularization  difference between Lasso and Ridge 11. How to deal with unbalanced binary classification 12. what you should do if a time series model is stationary"
+__label__0 Tell us about yourself.
+__label__0 Describe a project you have worked on.
+__label__1 What will O(n) be for the following code sample?
+__label__0 3 coding challenge
+__label__0 Have you used Offerup?
+__label__1 " A lot of questions about my presentation. One silly question is what number is not equal to itsself (NaN). Come on  could you please focus on the high-level picture for the company?"
