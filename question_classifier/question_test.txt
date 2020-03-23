@@ -1,0 +1,160 @@
+Choice Question
+__label__0 what is Thread safe environment? How do we maintain one?
+__label__0 How do you usually learn new things?
+__label__0 List 5 adjectives you'd use to describe yourself. Now list 2 your wife would use to describe you.
+__label__0 Tell me about this data set.
+__label__0 What products or product types would you recommend that the company highlight in each campaign?
+__label__0 Stack frame? What is it?
+__label__0 Some questions discussing the SQL logics.
+__label__0 Create a smart room system and talk through how you would improve it from current offerings
+__label__0  10 questions through SurveyMonkey  questions were copied from the internet
+__label__0  Basics of Object oriented programming  sql
+__label__0 Explain what you did for at your last job. Why do you want to work here?
+__label__0 Explain neural network
+__label__0 SQL basic questions
+__label__0  Craft demo mostly demonstrating spark working knowledge  distributed systems.
+__label__0  What is Singleton in Java  and the use case
+__label__0 Case study about finance/data stuff. How would you help a bank open branches etc.. there were three different cases for each call I had.
+__label__0 SQL window functions
+__label__0 Describe how you have used Python in a professional experience.
+__label__0 What are your strengths
+__label__0 bunch of stuff about deadlines...really pointless
+__label__0 Michelle told me that the previous question was insufficient and in that example I did not portray myself in the way she had expected so she asked me for a second example of where I got something wrong and had to fix the problem.
+__label__0 Questions about my projects and previous experience.
+__label__0  How would you describe what Clearwater does  in your own words?
+__label__0 How much salary do you expect
+__label__0 What are your career goals?
+__label__0 What was for most/least favorite job you have had and why?
+__label__0 Describe your experience with writing moderate level SQL queries.
+__label__0  SQL joins  Over fitting and Under fitting in R  IQR  ARIMA
+__label__0 What is your role in your data science team
+__label__0 Tell me about yourself
+__label__0 Please explain your most successful (first-hand) use cases of machine learning models.
+__label__0 Tell me about yourself?
+__label__0 Background question and standard technical question of a data science interview.
+__label__0 What’s your background in databases and back-end engineering?
+__label__0  Questions about previous work experience and projects  situation based behavioural questions  SQL questions  views on DA in Auditing.
+__label__0 Discussion of previous projects
+__label__0  In five minutes  give your background and anything I as a recruiter need to know about you. 
+__label__0 Can you hit the ground running?
+__label__0 The technical phone screen was more oriented toward software engineering and pretty challenging but that made it really interesting.
+__label__0 Describe a project on Regression that you did?
+__label__0  Previous work experience  presentation and SQL questions.
+__label__0  IF you have to merge a large document with others  how would you do that? ( looking for an excel answer…wanted to hear words like Vlookup and indexmatch
+__label__0 Why Booz Allen ?
+__label__0 STAR style behavioral questions.
+__label__0 Find top records with certain filters given two tables
+__label__0 Why I was interested in the job
+__label__0 Tell me about a time when you had to work with difficult people.
+__label__0  Can you talk about bias/variance trade-offs & how you would correct for bias or variance in  for example  a tree model?
+__label__0  Multiple choices of basic statistics and math knowledge (probability  linear algebra ...) and a coding challenge. 
+__label__0 Past experience
+__label__0 How would you solve (DESIGN QUESTION)?
+__label__0 General background
+__label__0  Asked to talk about myself  past projects  and other basic questions
+__label__0 Possibilities questions
+__label__0 Find all path from root node to leaf node in a binary tree
+__label__0 She asked what in my experience made me think I'd be a good fit for the position?
+__label__0  Salary expectation  availability  VISA  etc.
+__label__0  SQL Subqueries  SQL Window Function Statistics Data Mining Techniques on Python
+__label__0 Mostly behavioral questions for the first several interviews on site. Then there was a panel interview based on the presentation of a deliverable - I was asked to provide more detail about my methodology and additional data sources I would like to use.
+__label__0 What is something you've seen in the news recently that interested you?
+__label__0  Experiences in the field of data science  what is the most challenging aspect of what I do now  A few general data science questions.
+__label__0 The interview was very informative. Basic questions regarding the job nature. Some questions about my previous experience.
+__label__0 Explain random forest.
+__label__0 Basic SQL whiteboarding questions
+__label__0 What does SQL standard for
+__label__0  Multiple graph questions  Leetcode hard and medium  ML fundamentals and DL.
+__label__0 What is the reason you want to work for American Income Life
+__label__0  Standard interview questions  lots of problem solving activities.
+__label__0 Questions on recommendation system.
+__label__0 What kind of projects have you worked on
+__label__0 SQL Case questions
+__label__0 discussion arround the case study
+__label__0  In terms of data management  have you ever worked with Electronic Medical Records? 
+__label__1  How to calculate the average number of people in one family member  after survey by a call?
+__label__1 Soft Engineering easy - dates based + split an array into two equal sum subarrays.
+__label__1  Product based questions and how I use Machine learning to solve their business problems A/B testing questions MIP formulation question Decision Trees and Traditional ML algorithm questions High level metrics  Driver oriented metrics  Shipper side Metrics Experimentation questions
+__label__1 1) Basic probability question on bayes theorem 2) Coding question on merging two lists and k lists. (Remeber lists not link lists) 3) Prussian horse shoe data set analysis on possion distribution Unfortunately I could not hear things clearly during the interview becuase the interviewers were mike was not proper. Indeed are looking for a full stack software developer who has data science knowledge
+__label__1  Explain bagging versus boosting + write a code for different types of search  which binary search algorithm is the most efficient blah blah blah blah blah blah blah blah 
+__label__1 A) Assemble a dataframe with one row per customer and the following columns: * customer_id * gender * most_recent_order_date * order_count (number of orders placed by this customer) Sort the dataframe by customer_id ascending and display the first 10 rows.
+__label__1  Assume you have a square grid of known size and each spot in a grid as a number of some real value. If you start at the top left corner and can only go down or right  what it the maximum number you can obtain once you reach the bottom left? 
+__label__1 How do you join two tables with all the information on the left one unchanged?
+__label__1 Python - Anagram detector functino
+__label__1  We have two types of reviewers: careful reviewer (80% of reviewers) and lazy reviewers (20% of reviewers). Careful reviewers rate a post positive 60% of time and negative 40% of time). Lazy reviewers however rate a post positive 100% of time. A) what is the probability that a random ad is reviewed positively? B) If an ad gets a negative review  what is the probability that it's reviewed by a lazy reviewer? C) If 3 ads are reviewed positively in a row  what is the probability that they are reviewed by a lazy reviewer? D) Some as above with n positively reviewed ads in a row. What happens when n goes to infinity? E) If we have very few labeled data  how can we build a model to distinguish between careful and lazy reviewers?
+__label__1 Asked 10 coins puzzle
+__label__1  Suppose we have a binary classification problem. 99.8% of individuals in our sample = 0  0.2% = 1. We downsample: we randomly sample say 1% of the individuals which =0  but keep all which =1. We fit our model to this new smaller sample  and now we have a model which produces probabilities that an individual = 1. How do we adjust our output probabilities to use this model on the population as a whole?
+__label__1 esume and projects. How would you explain linear regression and logistic regression to people who don’t know about machine learning? How to apply Linear Regression to a classification problem? Sam’s Club has more than 600 clubs. How to cluster these clubs?
+__label__1 Calculate the median of large array of numbers across distributed systems using MapReduce. Dedupe a set of names in SQL.
+__label__1  1. Live coding: a. Create a list of 10 consecutive integers between 0 and 10 - Python b. based on the above list  print out odd numbers - Python c. Given a list of stores and products  derive a store-product summary table containing fraction of products for each store. (SQL) 2. Diff between supervised  unsupervised  reinforcement learning 3. What does p  d  q mean in Arima time series model? 4. If you have weekly sales and want to predict future sales  which time series models are you going to use? 5. how to deal with overfit 6. how to deal with outliers  any model to detect it 7. what is PCA 8. what is R squared  diff between r squared and adjusted r squared 9. what can you do to overcome multicollinearity 10. what is regularization  difference between Lasso and Ridge 11. How to deal with unbalanced binary classification 12. what you should do if a time series model is stationary
+__label__1  Write a program that finds the median of a list in Python... What is the time complexity of the function you wrote? [This exercise is pointless in a world where np.median() exists]
+__label__1  Two sum. Given an array of integers  return an array of unique pairs which sum to the target.
+__label__1 Given 2 tables of size N with the same primary key  how large would the resulting dataset be after a full join  left-join  right-join  and inner-join?
+__label__1 How will you detect bias in a dataset if the population/users keep changing due to dropout?
+__label__1 Case Study - General idea is that you are given a data set of customers and insurance agents and asked: What fields / other data could you use to pair a customer with the best insurance agent? Describe how you would use queries to uncover information such as getting the insurance agent with the largest number of online sales.
+__label__1 How would you create a pricing model for winning shipping auctions based on provided data points?
+__label__1  After briefly going over experience we jumped into coding exercise. N friends represented by (x y z) Which friend should host the party so that the overall distance is least. 2 ) parenthesis matching
+__label__1  We are collecting order details which includes particular product purchased by user  number of items purchased  brand of the product  exact time of the purchase  store location of the purchase  particular sales person associated with purchase  discount offer (if any) used for the purchase  any gift card used for purchase. Along with this purchase data  there is data associated with store location which includes median income of people residing in zip code  last year aggregate sale at the store  store hours  average tenure of the in store employees  and number of store employees. With this data available - what type of analytics dashboard you will create for respective store manager  marketing promotions manager  and CEO of the company that will help them analyze data and make sound business decisions. Please be creative in listing out all the non obvious insights that you will share with the data discovery process.
+__label__1 Find average order value for two genders and answer if the difference is significant.
+__label__1  You have 8 marbles and a balance scale. One marble weighs more than the others  but you don’t know which one. How can you identify the heavier marble using only two weighs of the balance scale?
+__label__1 Least common ancestor of 2 nodes in a binary tree
+__label__1  1. What are the data-driven questions that should be asked? 2. What is p-value? 3. What is an unbiased estimate? 4. A family with two kids  one of them is known to be a girl  what is the probability of the other kid being a boy? I got tricked by how the question was phrased. I interpreted it as two independent events so I gave the absolute prob. But later I guessed it was asking for conditional but it was too late.
+__label__1  In phone screen  how would you calculate the posterior probability in a dice rolling experiment with weighted dice?
+__label__1 Time Series Model and meaning and calculation of ACF and PACF?
+__label__1  One of the onsite questions was a classic Medium leetcode question: given a string and a list of letters  find the shortest substring that contains at least one of each letter. 
+__label__1 If you had a campaign to increase referrals for new drivers to the app how would you execute it? How would you decide the incentive for the refer-er? How would you evaluate the campaign?
+__label__1  Coding question: Given a 2d grid map of '1's (land) and '0's (water)  count the number of islands. An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water
+__label__1 How would you improve ROI of paid search campaign without scaling back?
+__label__1  Marketplace added a feature  how would you test the impact of that feature?
+__label__1  Phone screening 1) write a function which takes two parameter shopping_list and store inventory. This function should return true if store has all the inventory which you want to buy. 2) Write a function which takes two parameter shopping_list and list of store object stores[ {distance:8 inventory:’a b c}..... etc{. Find the store which has all the inventory and nearest from your home. Onsite interview 1) First round simple question on hashmap 2) generic system deaign interview 3) database design and query 4) last round with manager on general discussion regarding your day to day work.
+__label__1 In the phone screen: How would you compare the results of two different search algorithms? How to incorporate the rankings of the results?
+__label__1  If there are 10 seats on a plane  and you are the 10th person to enter the plane  what are the chances you sit in the correct seat?
+__label__1 What are some of the factors for deciding how to price tickets?
+__label__1 The average high temperature for x days is 70 degrees. the next day has a high temperature of 84 degrees  which raises the overall average to 72 degrees. what is the value of x
+__label__1 How would you explain a confidence interval to a business-person?
+__label__1 Why do you want to work here? What excites you working with data? What is a many to many relationship in database? Write a function to tell if a number is prime number in python.
+__label__1  Here's a SQL file that has NYT viewership by mode of device. The devices are Laptop  Tablet  and Phone. I would like to know the viewership of Laptop compared to Mobile where Mobile is the sum of Tablet and Phone. Write and SQL query that would execute this.
+__label__1  How do you transpose numpy array?
+__label__1  Overlapping Intervals and Second appearance of every character in a String
+__label__1  How do you detect and handle correlation between variables? What will happen if you ignore the correlation in model?
+__label__1 How would you detect spikes and drops in weekly web traffic?
+__label__1 How would you prioritize which country to expand Slack to for furthering the International effort?
+__label__1 Serialize and deserialize binary tree. Further optimize to reduce extra space from the serialized string. Followed up with constructing BST using preOrder array
+__label__1 Non-technical How have you resolved conflicts in the past? Why Vertex? Technical Explain why you used AWS Redshift Explain how you would build a system to track changes in a database
+__label__1  - background & experience - sql whiteboarding - can you tell me why we see a drop in the daily active user through may to septemebr? - There's a dataset given to you before the interview. You need to do a presentation on your findings to one of the interviewers.
+__label__1 1. Questions about work experience on resume. 2. What machine learning models do you know? 3. Do you know SVM? What parameters does it have? How to tune them? 4. Do you know random forest? What parameters does it have? How to tune them? 5. How do you performe feature selection?
+__label__1  If Airbnb wanted to open a new office  how would you determine how many meeting rooms to build into it?
+__label__1  Delete duplicates in a sorted array
+__label__1 what is the difference between bytes and string in python ?
+__label__1 Reversing string characters and replacing either the first few or last few chars with a pattern
+__label__1  Given a scenario X - figure out the probability of A  probability of A given B  etc. Draw out the distribution of users in scenario Y - figure out what the mean  median  and xth percentile is. 
+__label__1 -Business case study/challenge questions (eg explore and propose a new vertical to launch at Postmates) -What data would you use to inform a decision about a new restaurant location
+__label__1 Open ended ML question such as design a recommendation system.
+__label__1  Q: Given a 2d grid set value at a certain position to 0 or 1? Q: Set the neighboring values for a grid to 0? just the immediate neighbors no cascading Q: Given a 2d grid - select n positions in the 2d grid that need to be selected to 0 or 1?
+__label__1 How do you identify robots and real human-being in tweeter?
+__label__1  I was not informed that he will give a proper scenario to make an income statement which I studied in years back so eventually  I ended up with a disappointment. CRO gave me a case in which I would have to check the profitability of different market segments and you need to write and make the complete income statement to match the answer  unfortunately  I couldn't. I suggest you  everyone  you should ask them first in initial screening that is there any situational tests to write down the scenarios. I was so prepared technically and I knew I gonna crack the interview but he asked me out of the blue.
+__label__1 Provide a set of recommendations on how to improve our business or product based on the attached dataset. This is intended to be fairly open-ended - there's no right or wrong answer! We're more concerned with your approach and the insights you uncover.
+__label__1  Given a calculator function but not the script  what inputs would you feed it to see if it contains any bugs.
+__label__1  What is the value of ['1'  '2'  '3'].map(parseInt)
+__label__1 reverse a string which I answered right but it was wrong according to them
+__label__1 Which tables and indexes do you need in a SQL db to manage chat threads.
+__label__1  Step 1: You roll a die once Step 2: You decide if you want to reroll the die a second time If you reroll you will earn money equal to the number on your 2nd die if you do not reroll you will earn money equal to the number on your first die. Assuming you adopt a profit-maximizing strategy  what would be the expected money you would win?
+__label__1  (1) Given a list of points  find maximum points that lie on a straight line. (2) Given a list of circles (center and radius) on a plane  and two lines parallel to x axis  find whether it is possible to go from x = - inf to x = + inf without crossing any circle.
+__label__1  SQL queries: Select all the duplicate rows from the warehouse table  Select all the non-duplicate rows from table where no order was delivered yesterday. W Theoretical: Explain OLAP cubes and a use case explaining business analytics application. What is data normalization and non-normalization? What happens to the data of the table with the foreign key when the table with primary have there data updated? What do you understand by cascading referential integrity? Regression: What all regression models have you worked with? Explain the difference between the linear and logistic regression and use examples? What is the independent variable and what if I have three independent variables in my model and no dependent variable? Write an equation for multivariance or multiple regression model? 
+__label__1  The system design question was about how to design a large-scale system (think of things like gmail  google search  etc etc.) I won't give the specifics here  but I talked about server redundancy  load balancing  database design  latency  etc etc.
+__label__1  ( Onsite interview Round 2 ): White board 3sum problem  Given an array  find wether it has any subarray of size 3 with the sum equal to target value e.g. arr = [1 2 3 4 5] target = 6 Output: [1 2 3] 
+__label__1  (Phone Round 2 - Technical) Write an algorithm to say if two strings are anagrams of each other?
+__label__1  How would you design and build a data model to report on active users and number of posts by interface (ipad  iphone  desktop web  etc) given a hierarchy of these interfaces and their rollup groupings  at any and all levels of the hierarchy?
+__label__1  The questions are completely on algorithms and probability  although I apply for Data Scientist position  there are no relevant statistics  machine learning questions.
+__label__1 How would you architecture a distributed solution to convert a billion JPEG images to PNG?
+__label__1 How would you design a smart tennis racket that could measure where the ball impacted the face of the racket?
+__label__1 There are 100 doors in a building and 100 people outside. The first person goes in and opens every door. The second person goes in and closes every second door. The third person goes in and opens every third door. Which doors are the ones opened in the end?
+__label__1 What is happening at each point on this gradient descent plot?
+__label__1 Uber pool how to design the route.
+__label__1  Mostly theoretical questions to test my analytical thinking  for example how would you classify video game players? How would you measure player engagement? etc
+__label__1  Walk me through how you approach a new dataset? What are some of the aspects you look for in a good dataset?
+__label__1  Given an un-sorted array  write code to put odd number on the left and even number on the right
+__label__1  You are testing hundreds of hypotheses with a t-test  what considerations should be made?
+__label__1 How can you statistically test whether the mean of two groups is unequal?
+__label__1 What price should Thumbtack charge professionals for quotes?
+__label__1 coding: translate Rome number to real number machine-learning: knn manager: focus on my research and ask how to improve

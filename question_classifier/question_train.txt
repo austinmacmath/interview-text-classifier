@@ -1,0 +1,442 @@
+Choice Question
+__label__0 What is your long term career plan?
+__label__0 Do you know SQL and comfortable with SQL SERVER implement?
+__label__0 What is your career path? What are your strength and weakness?
+__label__0 tell me your most unforgettable professional experience?
+__label__0 They really wanted me to ask them questions about their company. I was only asked for a brief intro about my background.
+__label__0 What one of our core values describes you?
+__label__0  All applicants are required to complete this project that will take at least a week to do  but don't be surprised if you don't hear from them after you work on your project.
+__label__0  Do you have any project management experience? Can you do presentations? Tell me about your understanding of this position. Tell me the difference between SPSS  SAS and STATA. Which is your favorite one? 
+__label__0 what is the sizeof() operator in C?
+__label__0 Q2: tell me about a project you are most proud of
+__label__0  Where do I want to be  how well do I work in groups  explain yourself
+__label__0 Why are you leaving your current role?
+__label__0  They asked a lot about previous experience I had working with Java and Python  since data scientists at WorkFusion primarily use these two languages. 
+__label__0 What are 3 strengths and 3 skills you would like to improve?
+__label__0 Did you work with the senior leadership team?
+__label__0 what do u know about Gartner tell me about ur responsibilities at previous job what programming languages u r experienced
+__label__0 Detailed questions about my presentation.
+__label__0  sort colors algorithms problem.
+__label__0 What are my career interests and what is drawing me to this role
+__label__0 How did you discover this position?
+__label__0 Describe a machine learning method you would use to... (specific healthcare tech data example)
+__label__0  Basic algorithms  problem solving skills. White-boarding some pipelines  and the typical background/behavioral questions.
+__label__0 Relevant to your project
+__label__0 Technical questions
+__label__0 I was asked about my experience and to describe in detail some of my roles.
+__label__0 Implement KNN coding and general ML clustering Questions
+__label__0 Tell me about your background?
+__label__0 What's your impression of Samba TV?
+__label__0 Implement Dropout
+__label__0 Describe my vision for the team in the future.
+__label__0 What’s the most successful model you’ve ever built and implemented?
+__label__0 Basic SQL questions
+__label__0  Mostly Behavioral questions  mainly because half of the team is not strong technically
+__label__0  Why do you want to be a data analyst  why are you interested in SitePro  how would you go about figuring out if a data point is an outlier
+__label__0 Why do you think you would be good at this job?
+__label__0 Which coding project I was most proud of and why.
+__label__0  Statistical vs Machine learning  explain the difference
+__label__0  I did the phone call interview  just asked my background and what I want to do
+__label__0  3 rounds of interviews. One behavior phone screen  one technical phone screen  one 8hr programming test that actually can take 30 hours if you do a good job. 
+__label__0  1. We are observing this trend  what are possible explanations for why? 2. Behavioral (talk about a time when...) 3. SQL. Did not have live coding  only in the initial problem and take home portion 
+__label__0 How would you measure the effectiveness of the Try Before You Buy Program
+__label__0 Sorting data in SQL
+__label__0 Q: Describe the process of an end-to-end machine learning project from specification to prediction?
+__label__0 What is hypothesis test?
+__label__0 Multiple SQL Questions
+__label__0 Describe linear regression. Write function to find a number in sorted matrix.
+__label__0 For Stage 1: I was asked to write a code for a Fibonacci sequence.
+__label__0 Describe the steps/process in your most recent analytics project.
+__label__0 Excel questions
+__label__0  They asked typical personality questions  such as: how you coped with a stressful situation  what you did when you realized a co-worker was doing something incorrectly  what you would do if you were unsure about a task someone gave you  etc.
+__label__0 what is your background?
+__label__0 Whiteboarding SQL involving 3 tables and joining them. Won't give details due to NDA (and also I don't remember the details).
+__label__0 What is you Zodiac sign?
+__label__0 Tell me about your projects
+__label__0  They asked me about my level of Excel experience and my comfort level with VBA  macros and pivot tables. 
+__label__0 What is one company that is using data in an interesting way?
+__label__0 tell me about the best manager you've ever had
+__label__0  What happens when a stock splits  differences between active and passive investing  etc.
+__label__0 tell me about yourself
+__label__0 Why do you want to join Honeywell?
+__label__0 Bias-Variance tradeoff and ways to check overfitting of a model
+__label__0  In terms of your career  where do you see yourself in a few years?
+__label__0 Questions related to Statistics and previous project work
+__label__0 Why I was interested in the job
+__label__0  The first technical round is a skills assessment round. You are given a very difficult word problem (about a paragraph) and you are to write code an algorithm that compiles. These are like google type questions. I think they think they are Google or Microsoft and forgetting that they are just a startup. If I was such a rock star coder I would be applying for Google  not here. lol
+__label__0 How to add test to your code?
+__label__0 tell us about you
+__label__0 Tell me about a time where you had to make a difficult decision in a short amount of time?
+__label__0 what are the local government's revenue source and expense
+__label__0  The onsite also had a technical interview  which also involved merging and joining tables  and finding sub-sets of the data that was complete.
+__label__0  1 coding and 1 ML research paper interview before onsite. 1 coding  1 ML and a 4 hour coding project for onsite.
+__label__0 Business CAse studies on a phone interview.
+__label__0 ML MCQ Questions
+__label__0 What do you already know about Recursion?
+__label__0 What are potential weaknesses of that pricing strategy?
+__label__0  If you could have any data in the world  what data would you want to see?
+__label__0 what is the most difficult project you've worked on and how did you tackle it?
+__label__0 What coding languages are you familiar with?
+__label__0 Walk me through your resume.
+__label__0 tell me a time when....
+__label__0 Why would you think you would be a good fit for this position?
+__label__0 Previous experience and technical questions
+__label__0 Why do you want to work here? Do you know what Tealium does?
+__label__0  They drew a circuit and asked me to diagnose the problem. I could use them as my multimeter by asking questions about what I would read across different nodes.
+__label__0  Background checking  whiteboard coding about data structure and algorithm  their project related problem solving  A/B test related questions. 
+__label__0 What kind of data problems have you worked with?
+__label__0 How good are you with SQL?
+__label__0 Statistics questions.
+__label__0  What made you like apply for this position? Awesome. Tell me  like  about yourself. Awesome. Do you have any questions?
+__label__0 Miscommunication within the company has given me hopes and which leads to disappoinment. Try to impress HR not to any senior designed person because HR rules all even after your acceptance to offer.
+__label__0 Tell me about a time you led a team
+__label__0 Where do you see yourself in n years?
+__label__0 What made you think you fit this position
+__label__0 Take home data challenge
+__label__0 Tell about a time you had to work with a confrontational employee.
+__label__0 Technical skills description
+__label__0 What business opportunities do you see with our data set? How do you see yourself realizing this opportunity?
+__label__0 Where do you see yourself in 5 years?
+__label__0 How do you respond to an unhappy client?
+__label__0 What course have you ever taken?
+__label__0  Tell me about a project you've worked on  how do you keep up to date with the next big thing?
+__label__0  Asked about my background  work experience and projects
+__label__0 system design questions. coding questions. behavioral questions.
+__label__0 Performance level questions
+__label__0 why IHME
+__label__0 Describe how well you handle dealing with multiple deadlines due at the same time.
+__label__0  Technical question: If you gonna go on holiday  you want to leave your code to me  what will you do to make me better understand your work  and will not interrupt you during your holiday
+__label__0  ML questions from resume / general ML questions  engineering experience
+__label__0 A mini project on designing a DATABASE for Library management system using MySQL.
+__label__0  How did you like working for a Japanese company that couldn't speak English? 
+__label__0 Why did you choose to convert day of the week to a numerical value?
+__label__0 How many years have you been in this industry?
+__label__0 Tell me about your self. What are you good at? How do you work in a team environment?
+__label__0 Describe your experience and why did you think that it will be useful for us (ArenaNet). What is your salary expectations? Have you ever played GoW?
+__label__0  Behavioral questions like why Amgen  tell me about the mission of Amgen  how would you resolve a conflict  how would you go about learning a new concept/skill.
+__label__0 Talk about past experience
+__label__0 Tell me something about yourself
+__label__0 Q. What is the competitive advantage of Saks.com?
+__label__0 Build 2 models to predict a binary outcome.
+__label__0 What do you know about ACA?
+__label__0 1. SQL question: left join 2. SQL question about ads4ads Case study about ads4ads
+__label__0 They gave a product demo that led to discussions and questions.
+__label__0 Q— how can we increase our understanding of user engagement
+__label__0 Walk me through your resume
+__label__0 Give you a situation of data science problem! like for my situation it was a telematics data science problem
+__label__0 Hive joins(not SQL)
+__label__0 phone screen was 1 probability question and 1 coding question. in-person was from a varying number of probability and statistics questions along with coding in your language of choice.
+__label__0 Coding challenge
+__label__0 Design LRU cache
+__label__0  Questions about different rounds of the interview are listed below. First Round 1. Your background 2. Your related projects 3. Your related work experience 4. How do you know uptake 5. Any other question about uptake Second Round 1. Dive into one of two projects you have worked on. ( Algorithm  overfitting  Evaluation Metrics) 2. Any questions about the company
+__label__0 General architectural questions around Data Pipelines - Nothing difficult at all.
+__label__0 Primarily background information
+__label__0 They asked how did I prioritize multiple requests
+__label__0 Could you explain about your current role?
+__label__0 Details on the Onsite round: 1. They call it Craft Presentation. In reality you will be given a data science problem to model. --Instructions on data science problem (15 minutes) --Work on the data science problem (60 minutes). You can use anything to code. Personally I used notebook. 1 hour to complete everything from data cleaning to result visualization. --Presentation : ----Your personal intro & 1 project of yours ----Data science problem: code walk-through ----Q&A about the work 2. Break --Lunch @ cafeteria. Good time to check out their campus and ask questions about work culture and other things. Con: One of your panel interviewer will be taking u out to lunch so you are getting assessed during break time too. 2. Individual interview -- One(or a couple) 1-on-1 rounds. technical/behavioral. I do not remember exactly. --Two 2-on-1 rounds. One technical round and one behavioral.
+__label__0 Tell me about a time how you persuade your team member
+__label__0  If on Friday afternoon you had an analysis request from sales  found out an important client had been sent data with corrupted entries  and found out another client had been sent incomplete data  how would you proceed?
+__label__0 Why Amazon?
+__label__0 What are you strengths and weaknesses?
+__label__0  General questions on data   sql   data warehousing
+__label__0 none
+__label__0  Behavioral and culture fit round with the hosting manager. Again  going through current arch involving Big Data technologies.
+__label__0 How would you go about reducing feature space
+__label__0  Sql questions  Data cleaning
+__label__0 The interview revolved around my projects and my internship. There were a few whiteboard questions as well.
+__label__0 A lot was for culture/team fit. The technical side was around queries and SQL understanding.
+__label__0  Q1 Tools used and day to day workings  projects done
+__label__0 How do you determine the price of a product without any information about it?
+__label__0 Tell any project that you are proud of
+__label__0 Why do you want to work here?
+__label__0 How did you hear about us?
+__label__0 Common Interview questions
+__label__0 Where do you see yourself in five years?
+__label__0  Basic phone interview asking about experience  why would be a good fit  etc. Then a technical challenge 
+__label__0 ML MCQ Questions
+__label__0 all soft skills and situation base questions
+__label__0 Case studies
+__label__0 Some projects experience that you use Tableau or other data visualization experience.
+__label__0  Ml  Stats  Prob
+__label__0 They expect to give some kind of hands on test on (excel and sql ) after calling onsite and without any prior notification.
+__label__0 Tell me about your former role as a data scientist. Do you have any question about us.
+__label__0 How would your coworkers describe you?
+__label__0 what types of data do you work with
+__label__0 Related to Spark and Python Coding Questions.
+__label__0  Basic Python  DW  Spark  SQL questions
+__label__0 What is the difference between sql view and table
+__label__0  Professional background  different software experiences. 
+__label__0  Explain the process  how you take your model into production from development stage
+__label__0 Tell us about yourself?
+__label__0 Past projects
+__label__0 What strategy would you use for pricing a new product launch
+__label__0  Questions were data preparation  feature engineering and modeling focus. Some of questions were tradeoff having one best choice. Expect Programming in Python. It is closed book and note. 
+__label__0  Experience questions - what coding languages I knew  what my background is  etc.
+__label__0 It was more of a discussion where I was asked about machine learning projects and why I took a particular approach in that project. Then some hypothetical scenarios were given and they wanted to see the thought process.
+__label__0 Python- Rest Api Calls to store large amount of data
+__label__0 What skill set do you possess that will best help you with this job?
+__label__0  They asked a lot of questions like machine learning algorithms  basic statistics  knowledge of R and Python and also about projects you did with your current employer.
+__label__0 Why do you apply this position?
+__label__0 How do you handle multiple deadlines and priorities?
+__label__0 What is the difference between where and Having clause in SQL?
+__label__0 Basic machine learning questions
+__label__0  Ask all questions about SQL  share screen interview. First  hr- really easy Second  video tech interview with other two team member Third  take home assessment about SQL questions and mini project The fourth round was an onsite interview The First round was hr interview talk about your backgrounds and other stuff like why bird  hr- really easy Second  video tech interview with other two team member Third  take home assessment about SQL questions and mini project The fourth round was an onsite interview
+__label__0 Tell me about the project that you're most proud of
+__label__0 Describe your research.
+__label__0  No questions were asked  they only got to an explanation of the work schedule and salary range.
+__label__0 My past projects
+__label__0 Project selection based on Number of hours required to complete the project and available resources.
+__label__0 Most of the questions were product/case study based
+__label__0 Describe one time you worked on database design and data warehouse?
+__label__0  Onsite Interview: Cannot give specifics as I had signed NDA  but it is a real-world case study. You have to create Dimensional model and then write queries on whiteboard based on interviewer's requirements. Knowing Key-Operating Metrics is highly recommended.
+__label__0 How would you handle it when there are too many business requests from customers?
+__label__0  a) Which companies have you applied to ? b) What is your dream company ? (You need to say Protective Life) c) Given a chance would you join a large sized  mid size or small sized company ? Now the fun begins where cross questioning the answer of which companies you applied to earlier and then says why did you answer mid-size when you applied to big companies ? There is also a thought when they say Seems you are interested only in sponsorship Extremely rude and truly disappointing
+__label__0 1) Tell me about yourself. 2) Project details 3) Metrics used in classification algorithms 4) Regular expressions 5) Natural Language Processing
+__label__0 Tell me about an actual work you have done using sql
+__label__0 Where do you see yourself in 2-3 years?
+__label__0 Sort 2 already sorted arrays into one array
+__label__0  Lot of SQL and Tableau dashboard questions. They gave couple of case studies and asked questions on those and my views on few ideas. The onsite interview was 4 hours long and had 5 people interview me. Few standard interview questions like why data analyst or why do you want to join our company  what is the most challenging project you worked on etc.
+__label__0 Product and sql questions
+__label__0  8 multiple choice questions and 1 coding question. The former covered neural networks (how to avoid overfitting training data)  decision trees (what are they  and choose the best one given 4 choices)  logistic regression (analyze a classification problem where precision and recall are good for one label but not for the other)  k-means (all of the following are true except...)  SVM optimization (how will increasing the weight of the slack variable term in the loss function affect things)  SVM loss function (what it looks like)  variance in probability (basically summing random variables with constants out front  and finding the overall variance). Coding question involved reading files and writing new ones.
+__label__0 What projects have you been working on.
+__label__0 What was a mistake you made and how did you correct it?
+__label__0 A lot of focus on your approach using data to solve open ended questions
+__label__0 Why do you want to work for Livongo?
+__label__0 What does an ROC analysis tell us?
+__label__0 What are the limitations of your project?
+__label__0  Knowledge of Hadoop  Big data  Tableau etc
+__label__0 Have you ever faced with a situations where you had to shift priorities?
+__label__0  Parenthesis check  sql queries on coderpad
+__label__0 Business Cases
+__label__0 What drives you as an analyst?
+__label__0  Basic Java Questions  Data Structure  and conversations about general CS knowledge.
+__label__0 Do you know what we are doing at Nielsen?
+__label__0 Describe to me how Machine Learning would work in this environment?
+__label__0 Walk through resume Why Sia Partners? Why consulting company? Related questions about my experience
+__label__0  Walk through the resume; what is one feature you want to have added; how will you assess the success of this feature Tech part: exactly the same SQL questions like in Facebook's interviews (left join  self join) but then was asked to rewrite everything in Python
+__label__0 What do you know about Factoring
+__label__0 Describe what your company is doing with data
+__label__0  Given these tables  how would you create a SQL view? 
+__label__0 What's the most innovative thing you ever did?
+__label__0  VBA  pivot cache  vlookup  screen updating
+__label__0 How do you which variables to disregard in regression?
+__label__0  The fizzbuzz interview was pretty basic  merge two data sets and find correlations in the data set. The questions were asked as a three page take home exam (two hours allotted for the exam).
+__label__0 How well can you adapt to change.
+__label__0  How would you embody the mantra Work hard  play hard  stay safe?
+__label__0 How do you see your self working in a group
+__label__0  SQL- usage of aggregate functions  Rank  duplicate removals etc
+__label__0 describe the time when you had conflict with your team members and how you solved the problem.
+__label__1 A business case. How do you quantify the overall effect of SALES flag on Wayfair website? What model to use?
+__label__1  Given a sorted array which may contain both positive  zeros  and/or negative integers  select the 3 that gives the greatest (most positive) product. 
+__label__1 sql qustions: query the locations which has more than 1000 reviews.
+__label__1 Take Home SQL challenge. They send you a link to something like hacker rank. It was connected to data so you do get to examine the output of queries. They ask about: - Finding problems with the data - Finding the most used browser/platform type - Some attribution stuff around what type of notification is more effective for what type of platform
+__label__1 1. SQL query to get data from two tables based on clickstream data 2. Reverse the order of elements of two lists inside a list
+__label__1 Tell me about how you would calculate NPV in excel?
+__label__1 Describe a new feature that may be useful in improving recommendations for an existing product. Walk through the model pipeline and how to test for its efficacy
+__label__1  Suppose you want to predict whether a customer would purchase something from the online store again  what will be your approach?
+__label__1  You have 24 hours  how would you measure what % of FB stories are fake news? How would you refine your process if you have more time?
+__label__1  How would you calculate the mean of a column with billions of rows? (i.e. cannot fit into memory)
+__label__1  1. the ORDER BY command in SQL is automatically set in what format if you didn't set it? Ascending or Descending? Answer: Ascending 2. When you want to delete or add a column of a table in a database  what command you will use? Answer: ALTER 3. this question about about LEFT JOIN  they ask what command you want to use if you want to keep all the info of the left table? Answer: left join 4. You want to combine two column after removing two duplicates  use UNION or UNION ALL? Answer: UNION 
+__label__1 How to choose the 'k' value when doing K-means clustering?
+__label__1 How would you find the number of cardholders with the 5 highest number of transactions in 2018?
+__label__1  Out of millions of data  what approach do you take to make sure your model performs well. Q. Are you being opportunistic? What kind of question coming out of a hiring manager? And asking the question Being opportunistic? I did not follow up at all.
+__label__1  You're given a new data set  how do you evaluate it for data quality? What variables do you think would be most important to check? What type of analysis would you do to measure *variable* against *variable*? What does the p-value indicate if significant?
+__label__1  Providing a :60 window for answering  asked: Verbally construct a naive bases algorithm for predicting the color of a card  given provided sets of conditional probabilities 
+__label__1 There is a table of page view data. Two columns: Member ID and time stamp. You can assume this is for a 24 hour period. Members vs. guests/visitors are differentiable via ID's. Have to come up with a method for determining which all activities are crawler related (and not my members) and write a query for the same as well.
+__label__1 Let's assume that the experiment you ran proved your hypothesis was true. How would you suggest implementing the change on a larger scale? What are some operational challenges you might encounter and how would you mitigate their risk?
+__label__1 How to tackle multicollinearity in the multiple linear regression
+__label__1  What is random forest? Is random walk stationary or not  why?
+__label__1 How would design a data structure(already existing once )?
+__label__1 Suppose FB wants to launch feature X on product Y - how would you assess whether or not this is a good idea? How about when standard AB Testing does not work?
+__label__1  Phone screen 1. If given a univariate data  how would you design a function to detect anomalies? 2. If the dataset now is bivariate  how would you proceed with creating the function to detect anomaly? 3. How would you compare two categorical variables? 4. What would the results of a chi-squared test look like? On-site (there were 5 rounds with 5 different people- data scientists  hiring manager  engineering manager and director  the questions are summed as below) 1. Given a log file  how would you detect the most number of agents (the file contains- IP Adress  agent  timestamp and a couple of more values) 2. What is the probability of two students having birthday on the same day? 3. Describe what is clustering algorithm and give an example 4. How would you solve a class imbalance problem? 5. What is a sigmoid function  draw and explain 6. What is PCA  explain? 7. What is overfitting? 8. Given an array of integers and a target number  find the two indices in the array that will sum up to the target number. Code on whiteboard 9. The same question as above was modified to finding three indices in the same array. Code on whiteboard 10. What was one project that you failed and why do you think so that it failed? How do you think you would have improved it? 11. Explain a recent project in detail (more business oriented and focussed on thought process) 12. Did you face challenges in working with a teammate in the past and why? 13. Why do you want to quit your current job? 14. Live coding in python to load a txt file  find maximum  minimum points  finding unique values in the file Tips- Use whiteboard maximum number of times to explain your approach
+__label__1 1. Imagine a table keeping track of all the rides a driver undertakes in a given day. How do you query that table to find out the time when he did not have any rides. So the table may have a record when he picks up his first ride and then he picks another and then drops both of them. After a while he picks up a few more which again is recorded in the table. So with all that how do you find the data when he does not have any rides
+__label__1  Merge two strings  alternating characters between a and b. 
+__label__1 Predict what items will a user buy
+__label__1 Find for each day what is the number of “Birds” (their product) what is the net PROFIT
+__label__1  Write SQL to describe things going on in this table (min/median/mean/max etc of diff columns)  how would you find the top or worst performing city  what is the % of shipments that were matched automatically etc
+__label__1  A client told us 400/1million of our customers will die in the next month. In the next month  450/1million of our customers died. How do we assess whether or not the model is okay?
+__label__1  I have a pile of 50 USD coins. I pick one randomly  what is the probability that I picked a 1 cent coin?
+__label__1  If you were trying to sell reusable silicone straws but the whole product listing is comprised about how plastic straws are bad for the environment  how would an text classifier detect that the item is silicon straws instead of plastic?
+__label__1 What is the probability of getting at least 1 head when 3 coins are tossed?
+__label__1 How do you predict customer churn rate?
+__label__1 Group strings of similar characters together. Basically using HashMap with sorted string as a key and values is the Linkedlist of strings
+__label__1 add the smallest and the largest number from the list
+__label__1  discussion of semantic segmentation  describe Mask RCNNs/YOLO algorithms  cross entropy  graph/DFS type problems  design an optimizer for any cost function f
+__label__1  Create an aggregate level dashboard showing total number of devices with a reboot event  and reboots per device.
+__label__1  Given two list of descriptions of some products  how do you design an algorithm to find the same product from their descriptions.
+__label__1 sorting array question/find the 5th largest element in an array/conditional probability
+__label__1  Was asked to discuss a KPI to measure new active users and retention  asked about pros and cons of approach.
+__label__1  How to compare language models using information theory  create parse tree  design podcast search with only transcript (later contradicted himself and said why I didn't use any metadata features when he told me I cannot).
+__label__1  We have a table called ad_accounts(account_id  date  status). Status can be active/closed/fraud. A) what percent of active accounts are fraud? B) How many accounts became fraud today for the first time? C) What would be the financial impact of letting fraud accounts become active (how would you approach this question)?
+__label__1  Max difference problem: Given an array  find the largest difference between a number with higher index and one with lower index. For example  if array is [1  2  6  4]  possible differences are: 2-1  6-1  6-2  6-4  and largest difference is 5.
+__label__1  The onsite also had a technical interview  which also involved merging and joining tables  and finding sub-sets of the data that was complete.
+__label__1  was given 2 CSV files.. one with dict and other with list  had to convert the list into dict and merge the file into one csv.
+__label__1 A) Assemble a dataframe with one row per customer and the following columns: * customer_id * gender * most_recent_order_date * order_count (number of orders placed by this customer) Sort the dataframe by customer_id ascending and display the first 10 rows.
+__label__1 Implementing an SQL wildcard. Joining two tables with the other table having NULL ID's.
+__label__1 Find the index of a substring in a string. The substring has one wildcard character.
+__label__1  Suppose we have two variables  X and Y  where Y = X + some normal white noise. We regress Y on X  what will our coefficient be? Then we regress X on Y  what happens?
+__label__1 Create an ETL solution for sample date data.
+__label__1  Given a timeseries dataset with the following columns: device_type  timestamp  number_of_requests. Find a the minute in which the next 60 minutes sum up to the greatest total for each type of device. 
+__label__1  Onsite 1st round: Given a data set and have to develop a model within 45 min (team leaves you alone in a room). Questions: * What features would you add that aren't there? * If there was something that 100% (or only 1%) of the the users used  would it be a good feature? What would be an adequate proportion? Onsite 2nd round: * Game: play once and potentially win  or play 3 games and win 2 out of 3. What is the best strategy (let p = prob(success). use binomial theorem) * Given a long array that you can't store  how do you find the median? * What are the limitations to linear regression? * What is the biggest bug you had in your code?
+__label__1 How many people in New York wear red colored shirt on Monday
+__label__1  What is batch normalization? What is the loss function for an SVM? Why use SVM over neural nets? 
+__label__1  How do you count number of elements in a spark Sequence  how can you avoid data being called twice due to lazy evaluation Aggregate vs reduce by when to use what 
+__label__1  Describe the difference between covariance and correlation.
+__label__1  Find middle element of linked list in one iteration.
+__label__1  - Would you use union or union all if there were no duplicates? - Does creating a view in require storage in a database? - Tell me about a time you automated an otherwise manual process - Tell me about a time you started an analysis with certain expectations  and then got unexpected results - How would you measure X? Can you propose a plan to monetize from Y?
+__label__1 What are some methods you would use to detect an anomalous sound in a room with constant recording?
+__label__1 How would you correlate each device a person visits the website with back to that person?
+__label__1  Add + and - operant into the string to make the sum equals to target 
+__label__1 They gave a hypothetical dataset from a relational database and asked how I'd analyze data from two different tables. The challenge was there was no common key between them.
+__label__1  If a new law passes that forbids us from using marital status in ratemaking  how do we get around it in our analysis?
+__label__1 Programming question on balanced paranthesis. Find median after merging 2 already sorted arrays.
+__label__1 Questions about efficiency curves in the supply demand distribution of Instacart's logistics.
+__label__1 You have two eggs. You have a 100 story building. You don't know on what story the egg will break. What's the maximum number of drops it will take until you know when the egg will break? Write a math equation to solve this problem.
+__label__1  How do you Handle skewness  a coding exercise in spark  questions of partitionby   repartition  shuffle and sort  catalyst optimizer?
+__label__1  You're going to open up a coffee shop that produces nothing but cups of coffee. It will cost you $10 000 to set up the shop. It will then cost you $1 per cup to brew coffee  which includes operational costs for your shop. You will sell your cups of coffee for $1.50 per cup. and you can assume that every cup you brew will be sold. Ignoring the time-value of money  how many cups will you have to sell to break even?
+__label__1  The training data is pulled from raw logs. It has three columns that record user activity over time: user_id: A hash that uniquely identifies the user. activity_date: The date of the activity activity_type: The type of activity 6sense would like to predict which users will purchase given the user's activities. Using the training data  build a model that predicts which user_id's will make a purchase in the future. Use the model to score the test data from most likely to least likely to purchase. Please submit the following: (1) Descibe which activity types you believe are most useful in predicting which user will purchase in the future. (2) Provide a file containing the 1000 user_id's most likely to convert. (3) [optional] Any work used to generate the list and/or notes you'd like to include. The dataset is available for download online on kaggle.
+__label__1 Swap values to 2 variables without using 3rd.
+__label__1  Build a text wrapper. For example  split a long sentence by some character limit only at spaces. 
+__label__1  how to design a model for times series data using LSTM?
+__label__1 Tell me three features that may affect the insurance premium.
+__label__1  k points the nearest origin  and how about the time and space complexity?
+__label__1  (Coderpad Round 3 - Technical) Given a dictionary with keys and values and given an input  find closest key to the given input e.g. dictionary = { 'a' : ['b' 'c' 'e']  'm': ['c' 'e'] } Input: ['c'] Output: 'm' Explaination: 'c' is at distance 1 from 'a' and 0 from 'm'. Hence closest key for 'c' is 'm'. 
+__label__1 How to determine the median for every sub group
+__label__1 How to build a random generator of range 1-7 (integers) given a generator of range 1-5 (integers)?
+__label__1  Design a ML model to response for the search query. (Return a list of houses)
+__label__1  python and SQL in telephonic Hadoop input file formats  when to use what  design streaming system  Hive optimization  Spark implementation  Python multi-environment related questions Agile and behavioural rounds
+__label__1 You are asked to predict whether trucks driving routes between stores are going to finish late so that preemptive action can be taken to avert the cost and risk. Describe your approach.
+__label__1 How would you improve the app's Watchlist?
+__label__1 How do you interpret the coefficients of a logistic regression model?
+__label__1 Design a recommender system for Airbnb listings
+__label__1  Basic count with Group by. Another included ranking and averaging the groups based on certain criteria
+__label__1 SQL- Top Nth Salaries in Employee table?
+__label__1  Given some (real) data regarding earthquakes  what should you verify in (simulated) data if you know that earthquakes are not seasonal? How would you verify that a simulated data set matches real data? Elaborate on resume 
+__label__1  How would you create a predictive model of y given x  where x is between 0 and 10  is continuous and linear on the integers. Followup: If you were to model this is 10 separate regressions  what would be the effect? If you average the regressions at the integers would these be biased estimates?
+__label__1 Write sql code to produce a desired output. Then write programming to do the same thing (Python or pseudo code).
+__label__1 Given that the test group had 200 views and control group had 120 views. Do you think it would be impactful to make this change?
+__label__1  (Onsite interview round 3): Case study Given a house in a particular area  I want to determine how should I predict / forecast its value. And how shall I automate this process 
+__label__1  Describe linear regression to a child  to a 1st year college student  and to a seasoned mathematician.
+__label__1 I want to drop an egg from any floor in a 18 floors tall building. What is the highest floor that is safe to drop the egg which I don't want to break ?
+__label__1 How would you implement gradient decent?
+__label__1 How do you evaluate the fake news problem?
+__label__1  Python Questions: Avg length of words  some of the edge cases are having spaces in the beginning and end of the words  returning a float instead of int  returning None for blank input. Valid ip address  edge case to remember is if there are alphanumeric characters. SQL questions: One SQL question was tricky because you have to look at the data to come up with the question  the question is to find the percent of valid promotion  condition to find valid promotion is not specified in the question  so you have to figure it from looking at the data. Other SQL questions are based on a join  group by  top(3) 
+__label__1 Which type of Neural Network Architecture would you pick for image data
+__label__1 How are you going to build an ads bidding strategy and persuade high level management it is going to be profitable?
+__label__1 2. How would you estimate the prevalence of fake news on FB? Define a metric.
+__label__1  Success and Speed are highly correlated  we have a great model for it  there is a strong relationship between them. When we take a bunch of athletes and compare their success and speed  there is no relationship. Why is this?
+__label__1  Python  tuple list difference  *kwargs  one case study
+__label__1  Find customer sales timeseries whose moving averages have positive slope  except the average should only be over two days  and the lead day changes  and actually it should be (customer  day) pairs  or triples with total sales  we're not sure actually what we want but it's definitely a very complicated SQL query. No. More complicated. What do you mean use pandas? Pandas and SQL are the same thing. SQL is column-oriented. I've never heard of KDB. That's something you made up.
+__label__1  What is the difference between xgboost and random forest?
+__label__1  1. Traffic has gone down suddenly  what could be the reasons?
+__label__1  Design a system for recommending artists to users
+__label__1  How many starbucks drinks were sold by starbucks in 2018?
+__label__1 Use python3 to find an anagram pair in a sentence
+__label__1  It's a coding problem. find the unpopular merchants based on the requirements described in the problem. No fancy algorithm is required. Using a dictionary can solve the problem.
+__label__1 Day over day profit per day
+__label__1  1- 3 to 4 SQL question from the employee department with join  and conditional selecting 2- Stat question(OLS  assumptions  t-test  F-test in OLS? Are they both necessary or redunt? what metrics can you use  R squared and probability  what are the problems with R2? How does maximum likelihood relate to ols? Under what condition they are the same? If it possible by adding a feature r2 to decreased? 3- Machine learning: logistic regression vs linear regression  what is decision tree  how does it select feature? How does it decide to which feature to select? random forest what is the 2 element of randomness? What is the kernel trick in SVM? 4- Given a list and a target value  how to find the 2 element that the sum of them is equal to target? Space and time complexity? How to improve it? How the dictionary works? 
+__label__1  Short Problems Below are a few problems to begin exploring the dataset. 1. Which room had the most distinct people enter it? 2. Calculate the mean number of room entries per user over the day. 3. How many users went in at least 3 different rooms? 4. How many rooms were entered by at least 2 people in at least 12 distinct hours of the day For each  please submit code that computes the answer and put the actual answer in a comment at the bottom of the file. We’ll be looking at the quality of your code and the correctness of your solution. We’d prefer you write in Python  but feel free to use another language if you’re not comfortable in Python. 
+__label__1  There is a 5.10 ft tall guy who doesn't know swimming but wants to swim in a lake of average depth 5.6 ft. As a senior DS  how can you find the probability of his survival and save him ?
+__label__1  Given a string  return the maximum occurring character.
+__label__1  Pair programming - practically clean and establish structures for a json datafile. Machine learning - explain past projects  ensemble models  etc. Business case - calculate a retention rate and comment on the findings
+__label__1 How would you determine the value of all the different marketing channels Mode has?
+__label__1  Variation of the number of islands LC question. You have a House  Well & Tree arranged in a large grid with empty spaces in between to show where you can go. How will you go from house to nearest well without hitting a tree? Assume you can only go up.down/left/right and not diagonally and cannot hit a tree else you backtrack. 
+__label__1  Choose one of the recommendations/insights you uncovered (in #1) and outline an experiment you would like to run to test your suggested product/business recommendation. Please state your hypothesis  describe how you would structure your experiment  list your success metrics and describe the implementation.
+__label__1  State and describe the different types of SQL joins. What is referential integrity? With regard to statistics and machine learning  state your knowledge of: p-value  hypothesis testing  overfitting  ensembling. With regard to working on the command-line  demonstrate your knowledge of these tools: awk  cat  cut  grep  sed.
+__label__1 Build out the architecture to go from a stream of user-level event data on their devices to time-aggregatable metrics in a dashboard.
+__label__1  1. FB has hired raters to rate ads. 80% are careful rates and rate 60% of the ads as good and 40% as bad  20% are lazy raters and rate 100% ads as good. What is the probability that an ad is rated good? Given that 3 ads have been rated as good  what is the probability that they were rated by a lazy rater? Given that n ads have been rated as good  what is the probability that they were rated by a lazy rater? You want to classify raters as careful/lazy  how would you do that using all the probabilities and ideas discussed above (open ended question)?
+__label__1  Find max min avg of the order by date  customer  product  state. Coding was easy pretty much what people already posted here.
+__label__1  1. How can you detect the drop of users in Instagram stories? 2. some simple SQL questions
+__label__1 [CASE 2] What is the capacity of your workers for a 2 week period? And can they take on a doubling of client demand where current total demand was 1000 complete (gone through all 3 steps) lines of code/ 2 weeks? 3 workers who are needed to finish a software development process to be considered complete: 1 coder who can code x amount of lines per hour 1 tester of code who can test y amount of lines per minute 1 documenter who documents the code for the client and documents z lines per minute
+__label__1  It was a long test with very less time for answering the questions. Answers should be right on top your head. One of the Speed Coding question was to find the minimum amount of power that Gandalf should carry so that when he fights with many minions and reaches the boss  he should at least have power = 1.
+__label__1  Given a table of users  dates  statuses  etc. - calculate the ratio X grouped by Y on day Z. Call out edge cases - don't assume anything about the data without clarifying.
+__label__1 What is the revenue by advertiser for the month of March? (From one table) What is the ROI for each advertiser for the same month? (Now there are two tables)
+__label__1  Python Data Structure questions. How do you find the right person to recommend the right products using machine learning? If I gave you whole Jetblue data-sets on Friday  how do you come to me on Monday ?
+__label__1  MCQ on Python List slicing  coding question on string manipulation(very easy). ML theory questions: How to avoid overfitting  PCA  Bias-Variance tradeoff.
+__label__1  How would you check if adding a given point to a shape will not make the shape obtuse?
+__label__1  How would you create a model to predict whether we should raise or lower our ad bidding prices?
+__label__1  The system design question was about how to design a large-scale system (think of things like gmail  google search  etc etc.) I won't give the specifics here  but I talked about server redundancy  load balancing  database design  latency  etc etc. 
+__label__1  Assume you have a loyalty rewards program  where every user who makes purchase earns 200% of their order amount as reward points and when users return the item - the 200% points based on the current price of the product are deducted. We suspect some users have realized a gateway where they buy the product at full price but return when it is at discounted price so they keep the net difference in points (the refund always refunds full order amount). If user does this accidently or if the impact is less than 5000 reward points then business wants to ignore but identify anyone who is abusing this - how will you identify such users based on last 6 months of order and refund data. How will you identify this in real time as new orders/refunds are processed.
+__label__1  Write SQL query to return   for each user  the elapsed hours between a user's first session and their second session.
+__label__1  How many windows are in Los Angeles? Where do you see yourself 5 years from now? 
+__label__1 1st data scientist: The wind question (below) but I had to go very in depth about why I would choose Monday or Tuesday and had to actually write out the equations and explain why which one is better. I also had a question about shuffling cards and I had think of a really efficient way to do it. The second interview had a lot of questions about Python and R like about what the data structures are and their definitions. I think I also had some questions about linear regression as well.
+__label__1 Draw a curve you think would represent facebook user retention as a function of the number of photos uploaded
+__label__1  1) Questions on the data set they gave on the spot. Need to understand the fraud data set  join a few tables  and see what would be the selection criteria for the fraud. 2) Apply a simple time series model to the home test. 3) A bunch of behavioral questions - you most challenging project  etc.
+__label__1  Given the output of a classification (logistic regression) model  how do you evaluate it and plot the ROC curve? What are some limitations of pandas in your opinion? What are the differences among L1 and L2 regularization?
+__label__1 How to generate a uniform06 number using a nonuniform distributed function?
+__label__1  (Onsite interview round 5): Case Study System design for TV show recommendation system 
+__label__1 How do you choose confidence intervals?
+__label__1  There is a very good Indian cook  but he is unable to deliver the food in time at his restaurant. As a senior data scientist how will you help him ?
+__label__1 when will there be more dead profiles on Facebook than alive ones
+__label__1  (Phone Round 2 - Technical) Write an algorithm to say if two strings are anagrams of each other? Input: 'ace' and 'cae' Output: True
+__label__1 How to build an ML model to detect fraud.
+__label__1 How do you handle imbalanced data set
+__label__1  Superday: Clock question... what is the angle of a clock at 3:15 PM  what is the angle of the clock at 3:30PM
+__label__1 write a function to sample from a multinomial distribution
+__label__1  You discover our algorithm is vastly under-pricing a certain consumer good. What are the steps you take in diagnosing the problem?
+__label__1  Scala function to find the last element of a list using tail recursion
+__label__1  Given a string  create a list of all possible anagrams.
+__label__1  classification vs regression metrics for evaluation how to handle missing  corrupt data segmentation Objective/loss function definitions how do you imagine an ML system  broadcasting in numpy ?
+__label__1 In my opinion the most challenge question is to ask you to determine whether the difference of mean values of two columns is significant or not?
+__label__1 Describe RF
+__label__1 Explored various ways of monitoring user growth and retention.
+__label__1  If you had to design a feature for YouTube  what would it be and how would you test it?
+__label__1  Technical phone screen: * Explain Lasso vs. Ridge and when you would use one over the other * Explain Bias vs. Variance * Explain: SQL: inner  outer  left  right * Explain SQL: what is group by and give an example * How to deal with overfitting * Give an example where you didn't have enough data Onsite: Bunch of behavioral questions and a few case study. For example  if there are 3 marketing techniques and 15 companies how would you determine which marketing technique is ‘best’? Assume you have no other information
+__label__1 3. How would you change an experiment (FB introducing stories to Instagram) to account for network effect?
+__label__1  Given an array  increment any duplicate values until every element is unique. Return the minimum sum of elements for the unique array.
+__label__1  1 System Design (standard such as design Netflix or Typeahead suggestion)  1 question on Algorithms and data structures (easy-medium difficulty)  1 question on OOP and coding best practices.
+__label__1 What's the difference between Random Forest and GBDT?
+__label__1  Error metrics for an imbalanced logistic regression problem
+__label__1 Reverse a binary tree (left to right)
+__label__1 What will O(n) be for the following code sample?
+__label__1 Basic SQL query and split a word into basic components for a function.
+__label__1  You have 100 doors  and you open each of them on your 1st time through  then your second time through you toggle every 2nd door (closing open doors  or opening closed doors)  then your third time through you toggle every 3rd door  which doors are opened after 100 times through?
+__label__1  There are 10 truck driving from A to B. There are lights in the trip and a car needs to stop or turn right when there is a red light. How long does it take for the ten truck to arrive at B in the original sequence(1 2 3 4 ... 10)? 
+__label__1 find the greatest sum of a sub array
+__label__1  Given a dataset of a billion unique molecule IDs and their descriptions  and a million seemingly random IDs to extract from the dataset  how would you algorithmically architecture the solution in code that you write? You cannot use any databases or tools.
+__label__1  The data challenge is pretty standard  give you a data set and let you build a predictive model and put together some insights. Phone and onsite interviews are all technical interviews. Some statistics (sampling  hypothesis testing  power calculation  etc.)  some product sense (whether to launch some features  why some metric changed  etc.)  also a CS-like question. 
+__label__1 What is your favorite product and why? What could be changed about that product and how would you change it?
+__label__1  What makes you excited to get up in the morning? What will people say about you at your funeral? What is regularization? Can you describe dropout  L2 and L1 regularization?
+__label__1  (onsite interview roun 5): Edit distance There is a big file  it contain lots of words. given the first word and second word  check wether the words are in the path of edit distance e.g. File input: 'aaaa' 'aaab' 'abab' 'acdb' 'almn' 'abbb' Word1: 'aaaa' Word2: 'abbb' Output: True Explaination: Yes. There is an edit distance path from 'aaaa' to 'abbb' 'aaaa' -> 'aaab' -> 'abab' -> 'abbb' 
+__label__1 Estimate the number airplanes in the sky at one given time
+__label__1  Answer the boy-girl problem.
+__label__1  A study shows strong correlation between #of shoots and #of ice cream sales. Do you think this study result is valid? If not  explain why and how you are going to improve the study.
+__label__1 Machine learning questions about customer acquisition for credit cards.
+__label__1  What is the difference between SVM and Random Forest?
+__label__1 What affects Uber ride requests? How would you predict ride requests?
+__label__1 How would you calculate the number of draws you need to take so that you get 2 jellybeans of the same kind from a jar full of 3 kinds of jellybeans?
+__label__1 Q. What are key metrics of retail promotions? How would you calculate profits?
+__label__1 for second round - Try and solve basic profit and loss questions(their main focus here is are you good with quants and are able to understand business profit and could you make a profit)
+__label__1 Propensity Model and how beta estimates are calculated by MLE?
+__label__1 What kind of hypothesis testing can you use to detect bias?
+__label__1  Not so sure because 50% of info was lost  but something like building an ML model to do something and then how to AB test the model performance.
+__label__1  Get the names of all the salespeople who have made a sale to someone within industry B 
+__label__1 Why shouldn’t you use time series data in regression analysis
+__label__1 Find first non repeating char in string
+__label__1  If you are given 2 eggs  and you have to see what the highest point is that you can drop them from in a 100 story building  how would you go about seeing which floor is the highest you can drop them from without breaking?
+__label__1 Self-Introduction. Some basic but not trivial statistics concepts. How to compare two distributions. Simple data manipulation questions with R. Case study about Google advertisement and follow-up survey.
+__label__1 First interview: What's the probability that 4 different people have 3 different birthdays? Second interview: What's the expected value of buying a ticket from the box office versus a scalper? Third interview: Profitability for a coffee shop is down. Explain the steps you would take to determine the cause.
+__label__1 Q: How comprehensive do you think data science can be in terms of predicting outcomes for human performance?
+__label__1 Write an ETL taking data from an API that performs X transformations and results in CSV files.
+__label__1 Remove duplicate alphabets in a string
+__label__1  First onsite: * Explain linear regression to someone who doesn't know ML * How to derive beta coefficients * Explain why you use regularization and some methods (Lasso  Ridge  tree depth  cross validation) * Explain assumptions you make when using linear regression (error normal) * Explain heteroscadacity * Explain logistic regression * Explain what an increase in $\beta$ means for logistic regression * Explain k-means algorithm * Explain how to choose $k$ in k-means algorithm. * SQL white-boarding question Second Onsite: * Case study of building a recommendation system. Given that a company clicks on a particular candidate  how would you recommend other candidates. Second onsite:
+__label__1  Show on the whiteboard how you would design an alarm system. This was a sufficiently vague question that any interviewer can interpret the answer however he seems fit. Moreover  the interviewer seemed to want me to think about it in terms of Java architecture and concurrency. I would've preferred being given a programming question.
+__label__1  Classic stuff about your experience and some examples of relevant projects (for the phone interview) maybe a little bit of model stuff like why you chose specific models. They didn't seem happy with my answer of I choose the easiest thing to implement first and carried on trying to wrangle a more data scientist-y answer like A decision tree seemed to mathematically fit the feature space better  which is fine if you want to make sure people understand model basics then ask it directly rather than try to direct them into a weird  non-truthful narrative of what happened on the job. In person  3 hour interview all on model specifics. Asked a lot about maths. I think these are all fine  depending on the role you're applying for. Personally  I'm more of a full stack DS person and by focusing so much on the models and the maths behind the models  it was an odd interview for a role that I assume ultimately was applied DS rather than research DS. Or maybe it truly was a research based role and the questions were appropriate. The fact that I still can't tell says a lot about how unclear the role description was and about the confusion from the hiring manager about what they wanted. That's a red flag.
+__label__1  SQL: 1. given table products(product_id  brand_name product_name  product_price)  find brand_names with avg price > 3 and having more then 5 products 2.given table sales (sale_id  promotion_id  sale_amount  other columns)  find % of how sales with promotions ( promotion_id is null) are doing in comparison to all sales. Coding(Java): 1. find avg word length in a sentence 2. ip address validation 3. Friends problem [[A B]  [B D] [E]...] ( List of lists);
+__label__1 What is the issue when you want to update a very large database?
+__label__1 Search an element in the binary tree in a constant time
+__label__1  ( Onsite interview Round 1 ): Programming: Given an array  find wether it has any contiguous subarray with the sum equal to target value e.g. intput: arr = [1 2 3 4 5] target = 7 output: [3 4] 
+__label__1  The structure of the Interview was schedule like 1) HR Screening 2) Technical Screening ( Python code to show randomness - Flipping a coin  dice  random ball selection  etc. Solved using Bayesian statistics) 3) Behavioral and technical round  this was 5 hours with different persons. Includes again a coding challenge. Given a text  how to convert to int and do calculations or anagram type of questions( I did successfully completed but the interviewer was having an eagle eye on my keyboard which made me not comfortable). Followed by analytical questions based on resume and experience. The third round was mostly related to entity relationship followed by the fourth round looking for leadership skills and lastly a demo of what Komodo product looks like. My advice to Management: First get to know what you need  which skills you need for the data scientist  as a startup company do not expect candidates to be experts at all the available software in the market. The only talent for data scientist you need to look is logics and creativity which could be applied to various tools and techniques.
+__label__1  Given a sample set of tables  write a sql query to get a summary metric from those tables.
+__label__1  Given 4 project managers A B C D who need to meet up together  what's the only schedule possible so that there are at least 2 managers for each day given these conditions. A can only work on Mondays and Thursdays. B and C can't do Mondays and Thursdays  and D can do Wednesdays  Thursdays  and Fridays. (General example  not the exact question)
+__label__1  SQL : Top 3 Products by sale  % using Case  Basic Having clause and one Set operator (Intersect) type question Python : Average word length  ip-address parsing  dictionary  list of lists  flatten list of lists. ( Similar to previous interview experiences)
+__label__1 Write a SQL query to select people with the highest orders sorted with highest first (customer id and products purchased in different tables)
+__label__1  We went over a few technical questions (the three sum problem  etc) as well as design questions (with data like this  how would you structure it  stuff like that). The interviewers were knowledgeable and provided good explanations and hints when needed.
+__label__1 Draw a sample distribution of average daily views by users for Instagram.
+__label__1 Flatten a nested dictionary?? ( this was the hardest question in coder pad questions )
+__label__1  SQL: The names of salespeople that have 2 or more orders. When was the earliest and latest order made ? cumulative sum Python: IP Address Binary Search  Facebook Friends Tree  
+__label__1  Technical phone interview: Assumptions of Linear Regression { VIF  multicollinearity  heteroskedasticity (what is it & How do you tackle it)} What is dimension reduction? Explain Bayes Theorem to a 10-year-old kid? Compare NN to other ML models? What is t-test? Interpret p-value? How do you test relationship btw two variables using t-test in linear regression? What are overfitting and underfitting? How do you use the results of PCA? Onsite: Critical thinking - Time 3.15  angle btw hour and minute clock Algae doubles itself in a second. It takes 1 min to fill a bowl  How many seconds to fill 3/4 of the bowl? Coding - White Boarding  Basic SQL (Inner Join)  Fibanocci seq  etc.  Personality fit - Basic behavioral questions Presentation on the topic of your choice 
+__label__1  Imagine you run a pizza franchise  and you run into a problem with a lot of no-shows after the place their order. What features would you include in a model to try to predict a no-show?
+__label__1 How would you build a tool/model that could identify plagiarism
+__label__1 What is garbage collection in Python?
+__label__1  A lot of questions about my presentation. One silly question is what number is not equal to itsself (NaN). Come on  could you please focus on the high-level picture for the company?
